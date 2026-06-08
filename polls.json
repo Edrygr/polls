@@ -211,6 +211,19 @@
       "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 41 }]
     },
 
+    { "poll_id": "poll_031", "pollster": "Morning Consult", "sponsor": "Politico",
+      "population": "RV", "methodology": "Online panel",
+      "start_date": "2026-06-01", "end_date": "2026-06-07", "sample_size": 4983,
+      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
+      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 42 }]
+    },
+    { "poll_id": "poll_032", "pollster": "Economist / YouGov", "sponsor": "The Economist",
+      "population": "A", "methodology": "Online panel",
+      "start_date": "2026-06-02", "end_date": "2026-06-05", "sample_size": 1618,
+      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
+      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 50 }, { "party": "REP", "choice": "Republican", "pct": 41 }]
+    },
+
     { "poll_id": "eco_001", "pollster": "Marist College", "sponsor": "NPR / PBS",
       "population": "A", "methodology": "Multi-mode (phone, text, online)",
       "start_date": "2025-12-08", "end_date": "2025-12-11", "sample_size": 1440,
