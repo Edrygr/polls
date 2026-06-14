@@ -2397,5 +2397,37 @@
     "last_updated": "2026-06-13",
     "total_polls": 92,
     "source": "Aggregated from major pollsters"
-  }
+  },
+  "topics": [
+    {
+      "value": "Generic Ballot",
+      "label": "Generic Ballot",
+      "icon": "\ud83d\uddf3\ufe0f"
+    },
+    {
+      "value": "Presidential Approval",
+      "label": "Presidential Approval",
+      "icon": "\ud83c\udfdb\ufe0f"
+    },
+    {
+      "value": "Economy",
+      "label": "Economy",
+      "icon": "\ud83d\udcb0"
+    },
+    {
+      "value": "Jobs",
+      "label": "Jobs",
+      "icon": "\ud83d\udcbc"
+    },
+    {
+      "value": "Immigration",
+      "label": "Immigration",
+      "icon": "\ud83c\udf0e"
+    },
+    {
+      "value": "Healthcare",
+      "label": "Healthcare",
+      "icon": "\ud83c\udfe5"
+    }
+  ]
 }
