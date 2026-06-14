@@ -1,429 +1,1907 @@
 {
   "polls": [
     {
-      "poll_id": "poll_001", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-01-05", "end_date": "2026-01-07", "sample_size": 2247,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_001",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-07",
+      "sample_size": 2247,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_002", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-01-08", "end_date": "2026-01-12", "sample_size": 1412,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 45 }, { "party": "REP", "choice": "Republican", "pct": 48 }]
+      "poll_id": "poll_002",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-01-08",
+      "end_date": "2026-01-12",
+      "sample_size": 1412,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
     },
     {
-      "poll_id": "poll_003", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-01-10", "end_date": "2026-01-13", "sample_size": 1011,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 44 }, { "party": "REP", "choice": "Republican", "pct": 49 }]
+      "poll_id": "poll_003",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-01-10",
+      "end_date": "2026-01-13",
+      "sample_size": 1011,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 44
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 49
+        }
+      ]
     },
     {
-      "poll_id": "poll_004", "pollster": "Emerson College", "sponsor": "Emerson College Polling",
-      "population": "LV", "methodology": "Online / IVR",
-      "start_date": "2026-01-14", "end_date": "2026-01-16", "sample_size": 1350,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 45 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_004",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-16",
+      "sample_size": 1350,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_005", "pollster": "Ipsos / Reuters", "sponsor": "Reuters",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-01-16", "end_date": "2026-01-20", "sample_size": 1906,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 47 }, { "party": "REP", "choice": "Republican", "pct": 46 }]
+      "poll_id": "poll_005",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-01-16",
+      "end_date": "2026-01-20",
+      "sample_size": 1906,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 47
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 46
+        }
+      ]
     },
     {
-      "poll_id": "poll_006", "pollster": "Morning Consult", "sponsor": "Politico",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-01-19", "end_date": "2026-01-23", "sample_size": 4432,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 48 }]
+      "poll_id": "poll_006",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "sample_size": 4432,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
     },
     {
-      "poll_id": "poll_007", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-01-22", "end_date": "2026-01-27", "sample_size": 1280,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_007",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-01-22",
+      "end_date": "2026-01-27",
+      "sample_size": 1280,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_008", "pollster": "Monmouth University", "sponsor": "Monmouth",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-01-27", "end_date": "2026-01-30", "sample_size": 802,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 47 }, { "party": "REP", "choice": "Republican", "pct": 46 }]
+      "poll_id": "poll_008",
+      "pollster": "Monmouth University",
+      "sponsor": "Monmouth",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-01-27",
+      "end_date": "2026-01-30",
+      "sample_size": 802,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 47
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 46
+        }
+      ]
     },
     {
-      "poll_id": "poll_009", "pollster": "NBC News / Wall Street Journal", "sponsor": "NBC News / WSJ",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-02-01", "end_date": "2026-02-05", "sample_size": 1000,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 45 }, { "party": "REP", "choice": "Republican", "pct": 48 }]
+      "poll_id": "poll_009",
+      "pollster": "NBC News / Wall Street Journal",
+      "sponsor": "NBC News / WSJ",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-05",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
     },
     {
-      "poll_id": "poll_010", "pollster": "ABC News / Washington Post", "sponsor": "ABC News / WaPo",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-02-06", "end_date": "2026-02-10", "sample_size": 1527,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_010",
+      "pollster": "ABC News / Washington Post",
+      "sponsor": "ABC News / WaPo",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-02-06",
+      "end_date": "2026-02-10",
+      "sample_size": 1527,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_011", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-02-12", "end_date": "2026-02-16", "sample_size": 1212,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 48 }]
+      "poll_id": "poll_011",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-16",
+      "sample_size": 1212,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
     },
     {
-      "poll_id": "poll_012", "pollster": "Pew Research Center", "sponsor": "Pew Research",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-02-18", "end_date": "2026-02-24", "sample_size": 5156,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 47 }, { "party": "REP", "choice": "Republican", "pct": 46 }]
+      "poll_id": "poll_012",
+      "pollster": "Pew Research Center",
+      "sponsor": "Pew Research",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-02-18",
+      "end_date": "2026-02-24",
+      "sample_size": 5156,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 47
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 46
+        }
+      ]
     },
     {
-      "poll_id": "poll_013", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-03-02", "end_date": "2026-03-05", "sample_size": 1009,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 43 }, { "party": "REP", "choice": "Republican", "pct": 50 }]
+      "poll_id": "poll_013",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-05",
+      "sample_size": 1009,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 43
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 50
+        }
+      ]
     },
     {
-      "poll_id": "poll_014", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-03-06", "end_date": "2026-03-09", "sample_size": 1203,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_014",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-03-06",
+      "end_date": "2026-03-09",
+      "sample_size": 1203,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_015", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-03-11", "end_date": "2026-03-14", "sample_size": 2318,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 48 }]
+      "poll_id": "poll_015",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-03-11",
+      "end_date": "2026-03-14",
+      "sample_size": 2318,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
     },
     {
-      "poll_id": "poll_016", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-03-19", "end_date": "2026-03-24", "sample_size": 1389,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 45 }, { "party": "REP", "choice": "Republican", "pct": 49 }]
+      "poll_id": "poll_016",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-03-19",
+      "end_date": "2026-03-24",
+      "sample_size": 1389,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 49
+        }
+      ]
     },
     {
-      "poll_id": "poll_017", "pollster": "ABC News / Washington Post", "sponsor": "ABC News / WaPo",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-03-27", "end_date": "2026-04-01", "sample_size": 1541,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 47 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_017",
+      "pollster": "ABC News / Washington Post",
+      "sponsor": "ABC News / WaPo",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-03-27",
+      "end_date": "2026-04-01",
+      "sample_size": 1541,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 47
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_018", "pollster": "Morning Consult", "sponsor": "Politico",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-04-03", "end_date": "2026-04-07", "sample_size": 4601,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 48 }]
+      "poll_id": "poll_018",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-04-03",
+      "end_date": "2026-04-07",
+      "sample_size": 4601,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
     },
     {
-      "poll_id": "poll_019", "pollster": "NBC News / Wall Street Journal", "sponsor": "NBC News / WSJ",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-04-10", "end_date": "2026-04-14", "sample_size": 1000,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 45 }, { "party": "REP", "choice": "Republican", "pct": 49 }]
+      "poll_id": "poll_019",
+      "pollster": "NBC News / Wall Street Journal",
+      "sponsor": "NBC News / WSJ",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-04-10",
+      "end_date": "2026-04-14",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 49
+        }
+      ]
     },
     {
-      "poll_id": "poll_020", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-04-17", "end_date": "2026-04-20", "sample_size": 1001,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+      "poll_id": "poll_020",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-20",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
     {
-      "poll_id": "poll_021", "pollster": "Emerson College", "sponsor": "Emerson College Polling",
-      "population": "LV", "methodology": "Online / IVR",
-      "start_date": "2026-04-24", "end_date": "2026-04-26", "sample_size": 1000,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 50 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+      "poll_id": "poll_021",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-26",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 50
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
     {
-      "poll_id": "poll_022", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-04-28", "end_date": "2026-05-04", "sample_size": 1073,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 45 }, { "party": "REP", "choice": "Republican", "pct": 42 }]
+      "poll_id": "poll_022",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-04",
+      "sample_size": 1073,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 42
+        }
+      ]
     },
     {
-      "poll_id": "poll_023", "pollster": "ABC News / Washington Post / Ipsos", "sponsor": "ABC News / WaPo",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-04-28", "end_date": "2026-05-03", "sample_size": 1000,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 51 }, { "party": "REP", "choice": "Republican", "pct": 46 }]
+      "poll_id": "poll_023",
+      "pollster": "ABC News / Washington Post / Ipsos",
+      "sponsor": "ABC News / WaPo",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-03",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 51
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 46
+        }
+      ]
     },
     {
-      "poll_id": "poll_024", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-05-14", "end_date": "2026-05-18", "sample_size": 1106,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 53 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+      "poll_id": "poll_024",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-18",
+      "sample_size": 1106,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 53
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
     {
-      "poll_id": "poll_025", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-05-15", "end_date": "2026-05-18", "sample_size": 1002,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 55 }, { "party": "REP", "choice": "Republican", "pct": 39 }]
+      "poll_id": "poll_025",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-18",
+      "sample_size": 1002,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 55
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 39
+        }
+      ]
     },
     {
-      "poll_id": "poll_026", "pollster": "Ipsos / Reuters", "sponsor": "Reuters",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-05-15", "end_date": "2026-05-18", "sample_size": 1006,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 41 }]
+      "poll_id": "poll_026",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-18",
+      "sample_size": 1006,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 41
+        }
+      ]
     },
     {
-      "poll_id": "poll_027", "pollster": "Morning Consult", "sponsor": "Politico",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-05-22", "end_date": "2026-05-24", "sample_size": 2204,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 54 }, { "party": "REP", "choice": "Republican", "pct": 43 }]
+      "poll_id": "poll_027",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-24",
+      "sample_size": 2204,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 54
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 43
+        }
+      ]
     },
     {
-      "poll_id": "poll_028", "pollster": "Economist / YouGov", "sponsor": "The Economist",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-05-29", "end_date": "2026-06-01", "sample_size": 1604,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+      "poll_id": "poll_028",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-05-29",
+      "end_date": "2026-06-01",
+      "sample_size": 1604,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
     {
-      "poll_id": "poll_029", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-06-01", "end_date": "2026-06-04", "sample_size": 2523,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 51 }, { "party": "REP", "choice": "Republican", "pct": 42 }]
+      "poll_id": "poll_029",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-04",
+      "sample_size": 2523,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 51
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 42
+        }
+      ]
     },
     {
-      "poll_id": "poll_030", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-06-02", "end_date": "2026-06-05", "sample_size": 1291,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 41 }]
+      "poll_id": "poll_030",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-06-02",
+      "end_date": "2026-06-05",
+      "sample_size": 1291,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 41
+        }
+      ]
     },
-
-    { "poll_id": "poll_031", "pollster": "Morning Consult", "sponsor": "Politico",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-06-01", "end_date": "2026-06-07", "sample_size": 4983,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 42 }]
+    {
+      "poll_id": "poll_031",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-07",
+      "sample_size": 4983,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 42
+        }
+      ]
     },
-    { "poll_id": "poll_032", "pollster": "Economist / YouGov", "sponsor": "The Economist",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-06-02", "end_date": "2026-06-05", "sample_size": 1618,
-      "state": "national", "district": null, "office": "house_generic", "topic": "Generic Ballot",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 50 }, { "party": "REP", "choice": "Republican", "pct": 41 }]
+    {
+      "poll_id": "poll_032",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-02",
+      "end_date": "2026-06-05",
+      "sample_size": 1618,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 50
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 41
+        }
+      ]
     },
-
-    { "poll_id": "eco_001", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "A", "methodology": "Multi-mode (phone, text, online)",
-      "start_date": "2025-12-08", "end_date": "2025-12-11", "sample_size": 1440,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 56 }, { "party": "REP", "choice": "Republican", "pct": 36 }]
+    {
+      "poll_id": "eco_001",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Multi-mode (phone, text, online)",
+      "start_date": "2025-12-08",
+      "end_date": "2025-12-11",
+      "sample_size": 1440,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 56
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 36
+        }
+      ]
     },
-    { "poll_id": "eco_002", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "A", "methodology": "Multi-mode (phone, text, online)",
-      "start_date": "2026-03-10", "end_date": "2026-03-14", "sample_size": 1591,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 58 }, { "party": "REP", "choice": "Republican", "pct": 35 }]
+    {
+      "poll_id": "eco_002",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Multi-mode (phone, text, online)",
+      "start_date": "2026-03-10",
+      "end_date": "2026-03-14",
+      "sample_size": 1591,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 58
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 35
+        }
+      ]
     },
-    { "poll_id": "eco_003", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-04-17", "end_date": "2026-04-20", "sample_size": 1001,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 42 }]
+    {
+      "poll_id": "eco_003",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-20",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 42
+        }
+      ]
     },
-    { "poll_id": "eco_004", "pollster": "Emerson College", "sponsor": "Emerson College Polling",
-      "population": "LV", "methodology": "Online / IVR",
-      "start_date": "2026-04-24", "end_date": "2026-04-26", "sample_size": 1000,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 56 }, { "party": "REP", "choice": "Republican", "pct": 38 }]
+    {
+      "poll_id": "eco_004",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-26",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 56
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 38
+        }
+      ]
     },
-    { "poll_id": "eco_005", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-04-28", "end_date": "2026-05-04", "sample_size": 1073,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 59 }, { "party": "REP", "choice": "Republican", "pct": 30 }]
+    {
+      "poll_id": "eco_005",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-04",
+      "sample_size": 1073,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 59
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 30
+        }
+      ]
     },
-    { "poll_id": "eco_006", "pollster": "ABC News / Washington Post / Ipsos", "sponsor": "ABC News / WaPo",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-04-28", "end_date": "2026-05-03", "sample_size": 1000,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 62 }, { "party": "REP", "choice": "Republican", "pct": 37 }]
+    {
+      "poll_id": "eco_006",
+      "pollster": "ABC News / Washington Post / Ipsos",
+      "sponsor": "ABC News / WaPo",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-03",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 62
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 37
+        }
+      ]
     },
-    { "poll_id": "eco_007", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-05-14", "end_date": "2026-05-18", "sample_size": 1106,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 55 }, { "party": "REP", "choice": "Republican", "pct": 33 }]
+    {
+      "poll_id": "eco_007",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-18",
+      "sample_size": 1106,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 55
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 33
+        }
+      ]
     },
-    { "poll_id": "eco_008", "pollster": "Ipsos / Reuters", "sponsor": "Reuters",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-05-15", "end_date": "2026-05-18", "sample_size": 1006,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 54 }, { "party": "REP", "choice": "Republican", "pct": 37 }]
+    {
+      "poll_id": "eco_008",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-18",
+      "sample_size": 1006,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 54
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 37
+        }
+      ]
     },
-    { "poll_id": "eco_009", "pollster": "Morning Consult", "sponsor": "Politico",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-05-22", "end_date": "2026-05-24", "sample_size": 2204,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 54 }, { "party": "REP", "choice": "Republican", "pct": 38 }]
+    {
+      "poll_id": "eco_009",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-24",
+      "sample_size": 2204,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 54
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 38
+        }
+      ]
     },
-    { "poll_id": "eco_010", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-05-15", "end_date": "2026-05-18", "sample_size": 1002,
-      "state": "national", "district": null, "office": "economy", "topic": "Economy",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 55 }, { "party": "REP", "choice": "Republican", "pct": 39 }]
+    {
+      "poll_id": "eco_010",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-18",
+      "sample_size": 1002,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 55
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 39
+        }
+      ]
     },
-
-    { "poll_id": "job_001", "pollster": "Emerson College", "sponsor": "Emerson College Polling",
-      "population": "LV", "methodology": "Online / IVR",
-      "start_date": "2026-04-24", "end_date": "2026-04-26", "sample_size": 1000,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 50 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+    {
+      "poll_id": "job_001",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-26",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 50
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
-    { "poll_id": "job_002", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-04-17", "end_date": "2026-04-20", "sample_size": 1001,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+    {
+      "poll_id": "job_002",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-20",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
-    { "poll_id": "job_003", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-04-28", "end_date": "2026-05-04", "sample_size": 1073,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 55 }, { "party": "REP", "choice": "Republican", "pct": 39 }]
+    {
+      "poll_id": "job_003",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-04",
+      "sample_size": 1073,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 55
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 39
+        }
+      ]
     },
-    { "poll_id": "job_004", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-05-14", "end_date": "2026-05-18", "sample_size": 1106,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 56 }, { "party": "REP", "choice": "Republican", "pct": 34 }]
+    {
+      "poll_id": "job_004",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-18",
+      "sample_size": 1106,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 56
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 34
+        }
+      ]
     },
-    { "poll_id": "job_005", "pollster": "Ipsos / Reuters", "sponsor": "Reuters",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-05-15", "end_date": "2026-05-18", "sample_size": 1006,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 54 }, { "party": "REP", "choice": "Republican", "pct": 37 }]
+    {
+      "poll_id": "job_005",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-18",
+      "sample_size": 1006,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 54
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 37
+        }
+      ]
     },
-    { "poll_id": "job_006", "pollster": "Morning Consult", "sponsor": "Politico",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-05-22", "end_date": "2026-05-24", "sample_size": 2204,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 54 }, { "party": "REP", "choice": "Republican", "pct": 43 }]
+    {
+      "poll_id": "job_006",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-24",
+      "sample_size": 2204,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 54
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 43
+        }
+      ]
     },
-    { "poll_id": "job_007", "pollster": "Marquette Law School", "sponsor": "Marquette University",
-      "population": "A", "methodology": "Online / SSRS Opinion Panel",
-      "start_date": "2026-05-20", "end_date": "2026-05-26", "sample_size": 1001,
-      "state": "national", "district": null, "office": "jobs", "topic": "Jobs",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 53 }, { "party": "REP", "choice": "Republican", "pct": 38 }]
+    {
+      "poll_id": "job_007",
+      "pollster": "Marquette Law School",
+      "sponsor": "Marquette University",
+      "population": "A",
+      "methodology": "Online / SSRS Opinion Panel",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-26",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "jobs",
+      "topic": "Jobs",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 53
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 38
+        }
+      ]
     },
-
-    { "poll_id": "imm_001", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "A", "methodology": "Multi-mode (phone, text, online)",
-      "start_date": "2025-12-08", "end_date": "2025-12-11", "sample_size": 1440,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 46 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+    {
+      "poll_id": "imm_001",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Multi-mode (phone, text, online)",
+      "start_date": "2025-12-08",
+      "end_date": "2025-12-11",
+      "sample_size": 1440,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
-    { "poll_id": "imm_002", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-01-14", "end_date": "2026-01-16", "sample_size": 2264,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 43 }, { "party": "REP", "choice": "Republican", "pct": 50 }]
+    {
+      "poll_id": "imm_002",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-16",
+      "sample_size": 2264,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 43
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 50
+        }
+      ]
     },
-    { "poll_id": "imm_003", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "A", "methodology": "Multi-mode (phone, text, online)",
-      "start_date": "2026-03-10", "end_date": "2026-03-14", "sample_size": 1591,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 57 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+    {
+      "poll_id": "imm_003",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Multi-mode (phone, text, online)",
+      "start_date": "2026-03-10",
+      "end_date": "2026-03-14",
+      "sample_size": 1591,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 57
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
-    { "poll_id": "imm_004", "pollster": "Fox News", "sponsor": "Fox News",
-      "population": "RV", "methodology": "Live phone",
-      "start_date": "2026-04-17", "end_date": "2026-04-20", "sample_size": 1001,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 52 }, { "party": "REP", "choice": "Republican", "pct": 47 }]
+    {
+      "poll_id": "imm_004",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-20",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 52
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 47
+        }
+      ]
     },
-    { "poll_id": "imm_005", "pollster": "Emerson College", "sponsor": "Emerson College Polling",
-      "population": "LV", "methodology": "Online / IVR",
-      "start_date": "2026-04-24", "end_date": "2026-04-26", "sample_size": 1000,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 53 }, { "party": "REP", "choice": "Republican", "pct": 43 }]
+    {
+      "poll_id": "imm_005",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-26",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 53
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 43
+        }
+      ]
     },
-    { "poll_id": "imm_006", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-04-28", "end_date": "2026-05-04", "sample_size": 1073,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 55 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+    {
+      "poll_id": "imm_006",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-04",
+      "sample_size": 1073,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 55
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
-    { "poll_id": "imm_007", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-05-14", "end_date": "2026-05-18", "sample_size": 1106,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 57 }, { "party": "REP", "choice": "Republican", "pct": 40 }]
+    {
+      "poll_id": "imm_007",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-18",
+      "sample_size": 1106,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 57
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
     },
-    { "poll_id": "imm_008", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-06-01", "end_date": "2026-06-04", "sample_size": 2523,
-      "state": "national", "district": null, "office": "immigration", "topic": "Immigration",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 56 }, { "party": "REP", "choice": "Republican", "pct": 38 }]
+    {
+      "poll_id": "imm_008",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-04",
+      "sample_size": 2523,
+      "state": "national",
+      "district": null,
+      "office": "immigration",
+      "topic": "Immigration",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 56
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 38
+        }
+      ]
     },
-
-    { "poll_id": "hth_001", "pollster": "KFF (Kaiser Family Foundation)", "sponsor": "KFF",
-      "population": "A", "methodology": "Online / Phone (English & Spanish)",
-      "start_date": "2026-01-13", "end_date": "2026-01-20", "sample_size": 1426,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 40 }, { "party": "REP", "choice": "Republican", "pct": 28 }]
+    {
+      "poll_id": "hth_001",
+      "pollster": "KFF (Kaiser Family Foundation)",
+      "sponsor": "KFF",
+      "population": "A",
+      "methodology": "Online / Phone (English & Spanish)",
+      "start_date": "2026-01-13",
+      "end_date": "2026-01-20",
+      "sample_size": 1426,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 40
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 28
+        }
+      ]
     },
-    { "poll_id": "hth_002", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-01-14", "end_date": "2026-01-16", "sample_size": 2264,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 55 }, { "party": "REP", "choice": "Republican", "pct": 37 }]
+    {
+      "poll_id": "hth_002",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-16",
+      "sample_size": 2264,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 55
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 37
+        }
+      ]
     },
-    { "poll_id": "hth_003", "pollster": "Marist College", "sponsor": "NPR / PBS",
-      "population": "A", "methodology": "Multi-mode (phone, text, online)",
-      "start_date": "2026-03-10", "end_date": "2026-03-14", "sample_size": 1591,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 57 }, { "party": "REP", "choice": "Republican", "pct": 35 }]
+    {
+      "poll_id": "hth_003",
+      "pollster": "Marist College",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Multi-mode (phone, text, online)",
+      "start_date": "2026-03-10",
+      "end_date": "2026-03-14",
+      "sample_size": 1591,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 57
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 35
+        }
+      ]
     },
-    { "poll_id": "hth_004", "pollster": "Emerson College", "sponsor": "Emerson College Polling",
-      "population": "LV", "methodology": "Online / IVR",
-      "start_date": "2026-04-24", "end_date": "2026-04-26", "sample_size": 1000,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 54 }, { "party": "REP", "choice": "Republican", "pct": 38 }]
+    {
+      "poll_id": "hth_004",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-26",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 54
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 38
+        }
+      ]
     },
-    { "poll_id": "hth_005", "pollster": "CNN / SSRS", "sponsor": "CNN",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-04-28", "end_date": "2026-05-04", "sample_size": 1073,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 56 }, { "party": "REP", "choice": "Republican", "pct": 35 }]
+    {
+      "poll_id": "hth_005",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-04",
+      "sample_size": 1073,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 56
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 35
+        }
+      ]
     },
-    { "poll_id": "hth_006", "pollster": "Quinnipiac University", "sponsor": "Quinnipiac",
-      "population": "RV", "methodology": "Live phone / Online",
-      "start_date": "2026-05-14", "end_date": "2026-05-18", "sample_size": 1106,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 58 }, { "party": "REP", "choice": "Republican", "pct": 33 }]
+    {
+      "poll_id": "hth_006",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-18",
+      "sample_size": 1106,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 58
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 33
+        }
+      ]
     },
-    { "poll_id": "hth_007", "pollster": "ABC News / Washington Post / Ipsos", "sponsor": "ABC News / WaPo",
-      "population": "RV", "methodology": "Online panel",
-      "start_date": "2026-04-28", "end_date": "2026-05-03", "sample_size": 1000,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 61 }, { "party": "REP", "choice": "Republican", "pct": 31 }]
+    {
+      "poll_id": "hth_007",
+      "pollster": "ABC News / Washington Post / Ipsos",
+      "sponsor": "ABC News / WaPo",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-03",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 61
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 31
+        }
+      ]
     },
-    { "poll_id": "hth_008", "pollster": "CBS News / YouGov", "sponsor": "CBS News",
-      "population": "A", "methodology": "Online panel",
-      "start_date": "2026-06-01", "end_date": "2026-06-04", "sample_size": 2523,
-      "state": "national", "district": null, "office": "healthcare", "topic": "Healthcare",
-      "results": [{ "party": "DEM", "choice": "Democrat", "pct": 59 }, { "party": "REP", "choice": "Republican", "pct": 34 }]
+    {
+      "poll_id": "hth_008",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-04",
+      "sample_size": 2523,
+      "state": "national",
+      "district": null,
+      "office": "healthcare",
+      "topic": "Healthcare",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 59
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 34
+        }
+      ]
+    },
+    {
+      "poll_id": "poll_066",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-10",
+      "sample_size": 2341,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 47
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 46
+        }
+      ]
+    },
+    {
+      "poll_id": "poll_067",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-12",
+      "sample_size": 4821,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 48
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 45
+        }
+      ]
+    },
+    {
+      "poll_id": "poll_068",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-12",
+      "sample_size": 1375,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 47
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 46
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_014",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-10",
+      "sample_size": 1887,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 42
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 54
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_015",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone",
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-11",
+      "sample_size": 1014,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "econ_008",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-11",
+      "sample_size": 1203,
+      "state": "national",
+      "district": null,
+      "office": "economy",
+      "topic": "Economy",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 39
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
+    },
+    {
+      "poll_id": "sen_az_004",
+      "pollster": "OH Predictive Insights",
+      "sponsor": "OHPI",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-10",
+      "sample_size": 602,
+      "state": "AZ",
+      "district": null,
+      "office": "senate",
+      "topic": "Arizona Senate",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 44
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 48
+        }
+      ]
+    },
+    {
+      "poll_id": "sen_pa_004",
+      "pollster": "Franklin & Marshall College",
+      "sponsor": "F&M Poll",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-11",
+      "sample_size": 751,
+      "state": "PA",
+      "district": null,
+      "office": "senate",
+      "topic": "Pennsylvania Senate",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 45
+        }
+      ]
     }
-  ]
+  ],
+  "meta": {
+    "last_updated": "2026-06-13",
+    "total_polls": 73,
+    "source": "Aggregated from major pollsters"
+  }
 }
