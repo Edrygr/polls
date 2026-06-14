@@ -1769,58 +1769,6 @@
       ]
     },
     {
-      "poll_id": "appr_014",
-      "pollster": "Ipsos / Reuters",
-      "sponsor": "Reuters",
-      "population": "A",
-      "methodology": "Online panel",
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-10",
-      "sample_size": 1887,
-      "state": "national",
-      "district": null,
-      "office": "presidential_approval",
-      "topic": "Presidential Approval",
-      "results": [
-        {
-          "party": "DEM",
-          "choice": "Approve",
-          "pct": 42
-        },
-        {
-          "party": "REP",
-          "choice": "Disapprove",
-          "pct": 54
-        }
-      ]
-    },
-    {
-      "poll_id": "appr_015",
-      "pollster": "Fox News",
-      "sponsor": "Fox News",
-      "population": "RV",
-      "methodology": "Live phone",
-      "start_date": "2026-06-09",
-      "end_date": "2026-06-11",
-      "sample_size": 1014,
-      "state": "national",
-      "district": null,
-      "office": "presidential_approval",
-      "topic": "Presidential Approval",
-      "results": [
-        {
-          "party": "DEM",
-          "choice": "Approve",
-          "pct": 41
-        },
-        {
-          "party": "REP",
-          "choice": "Disapprove",
-          "pct": 55
-        }
-      ]
-    },
-    {
       "poll_id": "econ_008",
       "pollster": "Quinnipiac University",
       "sponsor": "Quinnipiac",
@@ -1897,11 +1845,557 @@
           "pct": 45
         }
       ]
+    },
+    {
+      "poll_id": "appr_001",
+      "pollster": "Gallup",
+      "sponsor": "Gallup",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-01-02",
+      "end_date": "2026-01-07",
+      "sample_size": 1500,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 51
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_002",
+      "pollster": "Rasmussen Reports",
+      "sponsor": "Rasmussen",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-07",
+      "sample_size": 1500,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 43
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_003",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-01-09",
+      "end_date": "2026-01-12",
+      "sample_size": 5032,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 44
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 53
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_004",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-01-17",
+      "end_date": "2026-01-20",
+      "sample_size": 1587,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 44
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 52
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_005",
+      "pollster": "AP-NORC",
+      "sponsor": "AP",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-01-22",
+      "end_date": "2026-01-27",
+      "sample_size": 1089,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 50
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_006",
+      "pollster": "Gallup",
+      "sponsor": "Gallup",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-02-03",
+      "end_date": "2026-02-08",
+      "sample_size": 1501,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 44
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 52
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_007",
+      "pollster": "CNN / SSRS",
+      "sponsor": "CNN",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-02-07",
+      "end_date": "2026-02-11",
+      "sample_size": 1201,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 42
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_008",
+      "pollster": "NBC News",
+      "sponsor": "NBC News",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-02-14",
+      "end_date": "2026-02-18",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 43
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 53
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_009",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS / Harris Poll",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-02-19",
+      "end_date": "2026-02-23",
+      "sample_size": 2510,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 45
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 51
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_010",
+      "pollster": "Gallup",
+      "sponsor": "Gallup",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-07",
+      "sample_size": 1499,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 43
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 53
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_011",
+      "pollster": "Pew Research Center",
+      "sponsor": "Pew Research",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-03-10",
+      "end_date": "2026-03-16",
+      "sample_size": 3589,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 40
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 57
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_012",
+      "pollster": "Monmouth University",
+      "sponsor": "Monmouth",
+      "population": "A",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-24",
+      "sample_size": 802,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_013",
+      "pollster": "Gallup",
+      "sponsor": "Gallup",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-06",
+      "sample_size": 1500,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 42
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 54
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_016",
+      "pollster": "ABC News / Washington Post",
+      "sponsor": "ABC News / WaPo",
+      "population": "A",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-13",
+      "sample_size": 1514,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 39
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 58
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_017",
+      "pollster": "Suffolk University / USA Today",
+      "sponsor": "USA Today",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-27",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_018",
+      "pollster": "Gallup",
+      "sponsor": "Gallup",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-09",
+      "sample_size": 1500,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_019",
+      "pollster": "Marist College / NPR / PBS",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-17",
+      "sample_size": 1313,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 40
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 56
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_020",
+      "pollster": "Rasmussen Reports",
+      "sponsor": "Rasmussen",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-20",
+      "sample_size": 1500,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 43
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_021",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-26",
+      "sample_size": 1618,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 55
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_022",
+      "pollster": "Gallup",
+      "sponsor": "Gallup",
+      "population": "A",
+      "methodology": "Live phone",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-06",
+      "sample_size": 1498,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 40
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 56
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_023",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-11",
+      "sample_size": 4953,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 56
+        }
+      ]
     }
   ],
   "meta": {
     "last_updated": "2026-06-13",
-    "total_polls": 73,
+    "total_polls": 92,
     "source": "Aggregated from major pollsters"
   }
 }
