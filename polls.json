@@ -2391,43 +2391,199 @@
           "pct": 56
         }
       ]
+    },
+    {
+      "poll_id": "poll_069",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-15",
+      "sample_size": 1402,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 44
+        }
+      ]
+    },
+    {
+      "poll_id": "poll_070",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-15",
+      "sample_size": 1195,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 38
+        }
+      ]
+    },
+    {
+      "poll_id": "poll_071",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-20",
+      "sample_size": 5041,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 46
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 42
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_024",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-15",
+      "sample_size": 1403,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 41
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 56
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_025",
+      "pollster": "AP-NORC",
+      "sponsor": "Associated Press",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-17",
+      "sample_size": 3040,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 37
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 62
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_026",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-15",
+      "sample_size": 1537,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 36
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 62
+        }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-06-13",
-    "total_polls": 92,
+    "last_updated": "2026-06-21",
+    "total_polls": 98,
     "source": "Aggregated from major pollsters"
   },
   "topics": [
     {
       "value": "Generic Ballot",
       "label": "Generic Ballot",
-      "icon": "\ud83d\uddf3\ufe0f"
+      "icon": "🗳️"
     },
     {
       "value": "Presidential Approval",
       "label": "Presidential Approval",
-      "icon": "\ud83c\udfdb\ufe0f"
+      "icon": "🏛️"
     },
     {
       "value": "Economy",
       "label": "Economy",
-      "icon": "\ud83d\udcb0"
+      "icon": "💰"
     },
     {
       "value": "Jobs",
       "label": "Jobs",
-      "icon": "\ud83d\udcbc"
+      "icon": "💼"
     },
     {
       "value": "Immigration",
       "label": "Immigration",
-      "icon": "\ud83c\udf0e"
+      "icon": "🌎"
     },
     {
       "value": "Healthcare",
       "label": "Healthcare",
-      "icon": "\ud83c\udfe5"
+      "icon": "🏥"
     }
   ]
 }
