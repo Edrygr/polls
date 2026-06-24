@@ -1,6 +1,44 @@
 {
   "polls": [
     {
+      "poll_id": "avg_generic_ballot",
+      "pollster": "Poll Average",
+      "sponsor": "Aggregated — last 6 polls",
+      "population": "Mixed",
+      "methodology": "Rolling average",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-20",
+      "sample_size": null,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Democrat", "pct": 45.8 },
+        { "party": "REP", "choice": "Republican", "pct": 43.5 }
+      ]
+    },
+    {
+      "poll_id": "avg_presidential_approval",
+      "pollster": "Poll Average",
+      "sponsor": "Aggregated — last 5 polls",
+      "population": "Mixed",
+      "methodology": "Rolling average",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-17",
+      "sample_size": null,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Approve", "pct": 39.0 },
+        { "party": "REP", "choice": "Disapprove", "pct": 58.4 }
+      ]
+    },
+    {
       "poll_id": "poll_001",
       "pollster": "CBS News / YouGov",
       "sponsor": "CBS News",
@@ -2550,8 +2588,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-06-21",
-    "total_polls": 98,
+    "last_updated": "2026-06-23",
+    "total_polls": 100,
     "source": "Aggregated from major pollsters"
   },
   "topics": [
