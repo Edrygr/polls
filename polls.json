@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 45.8 },
-        { "party": "REP", "choice": "Republican", "pct": 43.5 }
+        { "party": "DEM", "choice": "Democrat", "pct": 46.5 },
+        { "party": "REP", "choice": "Republican", "pct": 42.5 }
       ]
     },
     {
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 39.0 },
-        { "party": "REP", "choice": "Disapprove", "pct": 58.4 }
+        { "party": "DEM", "choice": "Approve", "pct": 38.2 },
+        { "party": "REP", "choice": "Disapprove", "pct": 59.0 }
       ]
     },
     {
@@ -2585,11 +2585,63 @@
           "pct": 62
         }
       ]
+    },
+    {
+      "poll_id": "poll_072",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-19",
+      "sample_size": 1200,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Democrat",
+          "pct": 51
+        },
+        {
+          "party": "REP",
+          "choice": "Republican",
+          "pct": 40
+        }
+      ]
+    },
+    {
+      "poll_id": "appr_027",
+      "pollster": "Marist College / NPR / PBS",
+      "sponsor": "NPR / PBS",
+      "population": "A",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-11",
+      "sample_size": 1340,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        {
+          "party": "DEM",
+          "choice": "Approve",
+          "pct": 36
+        },
+        {
+          "party": "REP",
+          "choice": "Disapprove",
+          "pct": 59
+        }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-06-23",
-    "total_polls": 100,
+    "last_updated": "2026-06-27",
+    "total_polls": 102,
     "source": "Aggregated from major pollsters"
   },
   "topics": [
