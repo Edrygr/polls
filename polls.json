@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 46.5 },
-        { "party": "REP", "choice": "Republican", "pct": 42.5 }
+        { "party": "DEM", "choice": "Democrat", "pct": 47.3 },
+        { "party": "REP", "choice": "Republican", "pct": 41.2 }
       ]
     },
     {
@@ -2637,11 +2637,47 @@
           "pct": 59
         }
       ]
+    },
+    {
+      "poll_id": "poll_073",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-22",
+      "sample_size": 1165,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "DEM", "choice": "Democrat", "pct": 52 },
+        { "party": "REP", "choice": "Republican", "pct": 41 }
+      ]
+    },
+    {
+      "poll_id": "poll_074",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-21",
+      "end_date": "2026-06-27",
+      "sample_size": 4876,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "DEM", "choice": "Democrat", "pct": 48 },
+        { "party": "REP", "choice": "Republican", "pct": 42 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-06-27",
-    "total_polls": 102,
+    "last_updated": "2026-06-28",
+    "total_polls": 104,
     "source": "Aggregated from major pollsters"
   },
   "topics": [
