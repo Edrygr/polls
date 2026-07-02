@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 47.3 },
-        { "party": "REP", "choice": "Republican", "pct": 41.2 }
+        { "party": "DEM", "choice": "Democrat", "pct": 48.7 },
+        { "party": "REP", "choice": "Republican", "pct": 41.7 }
       ]
     },
     {
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 38.2 },
-        { "party": "REP", "choice": "Disapprove", "pct": 59.0 }
+        { "party": "DEM", "choice": "Approve", "pct": 37.2 },
+        { "party": "REP", "choice": "Disapprove", "pct": 59.6 }
       ]
     },
     {
@@ -2639,6 +2639,60 @@
       ]
     },
     {
+      "poll_id": "poll_075",
+      "pollster": "Economist / YouGov",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-29",
+      "sample_size": 1606,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "DEM", "choice": "Democrat", "pct": 47 },
+        { "party": "REP", "choice": "Republican", "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "poll_076",
+      "pollster": "Morning Consult",
+      "sponsor": "Politico",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-28",
+      "end_date": "2026-07-01",
+      "sample_size": 4912,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "DEM", "choice": "Democrat", "pct": 48 },
+        { "party": "REP", "choice": "Republican", "pct": 42 }
+      ]
+    },
+    {
+      "poll_id": "appr_028",
+      "pollster": "Civiqs",
+      "sponsor": "Civiqs",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-06-29",
+      "end_date": "2026-07-01",
+      "sample_size": 2100,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "DEM", "choice": "Approve", "pct": 36 },
+        { "party": "REP", "choice": "Disapprove", "pct": 59 }
+      ]
+    },
+    {
       "poll_id": "poll_073",
       "pollster": "Quinnipiac University",
       "sponsor": "Quinnipiac",
@@ -2676,8 +2730,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-06-28",
-    "total_polls": 104,
+    "last_updated": "2026-07-02",
+    "total_polls": 107,
     "source": "Aggregated from major pollsters"
   },
   "topics": [
