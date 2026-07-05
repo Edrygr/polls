@@ -3,11 +3,11 @@
     {
       "poll_id": "avg_generic_ballot",
       "pollster": "Poll Average",
-      "sponsor": "Aggregated — last 6 polls",
+      "sponsor": "RealClearPolitics average",
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-06-08",
-      "end_date": "2026-06-20",
+      "end_date": "2026-07-01",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,14 +15,14 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 48.7 },
-        { "party": "REP", "choice": "Republican", "pct": 41.7 }
+        { "party": "DEM", "choice": "Democrat", "pct": 48.9 },
+        { "party": "REP", "choice": "Republican", "pct": 42.3 }
       ]
     },
     {
       "poll_id": "avg_presidential_approval",
       "pollster": "Poll Average",
-      "sponsor": "Aggregated — last 5 polls",
+      "sponsor": "Multi-pollster average",
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-06-01",
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 37.2 },
-        { "party": "REP", "choice": "Disapprove", "pct": 59.6 }
+        { "party": "DEM", "choice": "Approve", "pct": 37.0 },
+        { "party": "REP", "choice": "Disapprove", "pct": 58.0 }
       ]
     },
     {
@@ -2730,7 +2730,7 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-04",
     "total_polls": 107,
     "source": "Aggregated from major pollsters"
   },
