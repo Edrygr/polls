@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 37.0 },
-        { "party": "REP", "choice": "Disapprove", "pct": 58.0 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37.0 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.0 }
       ]
     },
     {
@@ -250,8 +250,8 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 34 },
-        { "party": "REP", "choice": "Disapprove", "pct": 58 }
+        { "party": "APPROVE", "choice": "Approve", "pct": 34 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
     },
     {
@@ -268,8 +268,8 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 36 },
-        { "party": "REP", "choice": "Disapprove", "pct": 59 }
+        { "party": "APPROVE", "choice": "Approve", "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
       ]
     },
     {
@@ -286,8 +286,8 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 37 },
-        { "party": "REP", "choice": "Disapprove", "pct": 62 }
+        { "party": "APPROVE", "choice": "Approve", "pct": 37 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
       ]
     },
     {
@@ -304,8 +304,8 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 36 },
-        { "party": "REP", "choice": "Disapprove", "pct": 62 }
+        { "party": "APPROVE", "choice": "Approve", "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
       ]
     },
     {
@@ -322,8 +322,8 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 38 },
-        { "party": "REP", "choice": "Disapprove", "pct": 55 }
+        { "party": "APPROVE", "choice": "Approve", "pct": 38 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 55 }
       ]
     },
     {
@@ -340,8 +340,8 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "DEM", "choice": "Approve", "pct": 37 },
-        { "party": "REP", "choice": "Disapprove", "pct": 58 }
+        { "party": "APPROVE", "choice": "Approve", "pct": 37 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
     }
   ],
