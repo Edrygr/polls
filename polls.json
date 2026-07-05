@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 48.9 },
-        { "party": "REP", "choice": "Republican", "pct": 42.3 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48.9 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42.3 }
       ]
     },
     {
@@ -52,8 +52,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 48 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -70,8 +70,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 50 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -88,8 +88,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 49 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -106,8 +106,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 50 },
-        { "party": "REP", "choice": "Republican", "pct": 40 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
       ]
     },
     {
@@ -124,8 +124,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 50 },
-        { "party": "REP", "choice": "Republican", "pct": 41 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41 }
       ]
     },
     {
@@ -142,8 +142,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 51 },
-        { "party": "REP", "choice": "Republican", "pct": 40 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
       ]
     },
     {
@@ -160,8 +160,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 46 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 46 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -178,8 +178,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 50 },
-        { "party": "REP", "choice": "Republican", "pct": 40 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
       ]
     },
     {
@@ -196,8 +196,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 49 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -214,8 +214,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 48 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -232,8 +232,8 @@
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
-        { "party": "DEM", "choice": "Democrat", "pct": 48 },
-        { "party": "REP", "choice": "Republican", "pct": 42 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
       ]
     },
     {
@@ -250,7 +250,7 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "APPROVE", "choice": "Approve", "pct": 34 },
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 34 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
     },
@@ -268,7 +268,7 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "APPROVE", "choice": "Approve", "pct": 36 },
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
       ]
     },
@@ -286,7 +286,7 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "APPROVE", "choice": "Approve", "pct": 37 },
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
       ]
     },
@@ -304,7 +304,7 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "APPROVE", "choice": "Approve", "pct": 36 },
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
       ]
     },
@@ -322,7 +322,7 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "APPROVE", "choice": "Approve", "pct": 38 },
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 38 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 55 }
       ]
     },
@@ -340,7 +340,7 @@
       "office": "presidential_approval",
       "topic": "Presidential Approval",
       "results": [
-        { "party": "APPROVE", "choice": "Approve", "pct": 37 },
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
     }
