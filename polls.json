@@ -39,6 +39,60 @@
       ]
     },
     {
+      "poll_id": "fox_001",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-01-23",
+      "end_date": "2026-01-26",
+      "sample_size": 1005,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 52 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 46 }
+      ]
+    },
+    {
+      "poll_id": "hh_001",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-01-28",
+      "end_date": "2026-01-29",
+      "sample_size": 2000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 54 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 46 }
+      ]
+    },
+    {
+      "poll_id": "yg_001",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-02-06",
+      "end_date": "2026-02-09",
+      "sample_size": 1730,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 47 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
+      ]
+    },
+    {
       "poll_id": "emr_001",
       "pollster": "Emerson College",
       "sponsor": "Emerson College Polling",
@@ -75,6 +129,42 @@
       ]
     },
     {
+      "poll_id": "hh_002",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-03-25",
+      "end_date": "2026-03-26",
+      "sample_size": 2009,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 49 }
+      ]
+    },
+    {
+      "poll_id": "yg_002",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-23",
+      "sample_size": 1665,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 45 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
+      ]
+    },
+    {
       "poll_id": "emr_003",
       "pollster": "Emerson College",
       "sponsor": "Emerson College Polling",
@@ -90,6 +180,24 @@
       "results": [
         { "party": "APPROVE",    "choice": "Democrat",   "pct": 49 },
         { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
+      ]
+    },
+    {
+      "poll_id": "fox_002",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-20",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 52 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 47 }
       ]
     },
     {
@@ -111,6 +219,42 @@
       ]
     },
     {
+      "poll_id": "qu_001",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-18",
+      "sample_size": 1106,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
+      ]
+    },
+    {
+      "poll_id": "nyt_001",
+      "pollster": "Siena / New York Times",
+      "sponsor": "New York Times",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-18",
+      "sample_size": 1097,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 39 }
+      ]
+    },
+    {
       "poll_id": "emr_005",
       "pollster": "Emerson College",
       "sponsor": "Emerson College Polling",
@@ -129,21 +273,21 @@
       ]
     },
     {
-      "poll_id": "qu_001",
-      "pollster": "Quinnipiac University",
-      "sponsor": "Quinnipiac",
+      "poll_id": "hh_003",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
       "population": "RV",
-      "methodology": "Live phone / Online",
-      "start_date": "2026-05-13",
-      "end_date": "2026-05-18",
-      "sample_size": 1106,
+      "methodology": "Online panel",
+      "start_date": "2026-05-29",
+      "end_date": "2026-05-31",
+      "sample_size": 1725,
       "state": "national",
       "district": null,
       "office": "house_generic",
       "topic": "Generic Ballot",
       "results": [
         { "party": "APPROVE",    "choice": "Democrat",   "pct": 51 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 49 }
       ]
     },
     {
@@ -219,6 +363,24 @@
       ]
     },
     {
+      "poll_id": "yg_003",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-29",
+      "sample_size": 1606,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 46 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 44 }
+      ]
+    },
+    {
       "poll_id": "mc_003",
       "pollster": "Morning Consult",
       "sponsor": "Politico",
@@ -237,6 +399,24 @@
       ]
     },
     {
+      "poll_id": "nyt_appr_001",
+      "pollster": "Siena / New York Times",
+      "sponsor": "New York Times",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-22",
+      "sample_size": 1097,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 40 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 56 }
+      ]
+    },
+    {
       "poll_id": "appr_001",
       "pollster": "Quinnipiac University",
       "sponsor": "Quinnipiac",
@@ -251,6 +431,24 @@
       "topic": "Presidential Approval",
       "results": [
         { "party": "APPROVE",    "choice": "Approve",    "pct": 34 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
+      ]
+    },
+    {
+      "poll_id": "fox_appr_001",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-20",
+      "sample_size": 1001,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 42 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
     },
@@ -309,6 +507,60 @@
       ]
     },
     {
+      "poll_id": "yg_appr_001",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-26",
+      "sample_size": 1520,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 34 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_002",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-05-29",
+      "end_date": "2026-06-01",
+      "sample_size": 1604,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_003",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-08",
+      "sample_size": 1568,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60 }
+      ]
+    },
+    {
       "poll_id": "appr_005",
       "pollster": "Quinnipiac University",
       "sponsor": "Quinnipiac",
@@ -324,6 +576,42 @@
       "results": [
         { "party": "APPROVE",    "choice": "Approve",    "pct": 38 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 55 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_004",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-15",
+      "sample_size": 1549,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 39 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 56 }
+      ]
+    },
+    {
+      "poll_id": "hh_appr_001",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-05-29",
+      "end_date": "2026-05-31",
+      "sample_size": 1725,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 43 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 53 }
       ]
     },
     {
@@ -347,19 +635,11 @@
   ],
   "meta": {
     "last_updated": "2026-07-04",
-    "total_polls": 19,
-    "source": "Verified from primary sources only: emersoncollegepolling.com, poll.qu.edu, maristpoll.marist.edu, AP-NORC, Reuters/Ipsos, Civiqs, Morning Consult"
+    "total_polls": 36,
+    "source": "Verified from primary sources: Fox News, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
-    {
-      "value": "Generic Ballot",
-      "label": "Generic Ballot",
-      "icon": "🗳️"
-    },
-    {
-      "value": "Presidential Approval",
-      "label": "Presidential Approval",
-      "icon": "🏛️"
-    }
+    { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
+    { "value": "Presidential Approval", "label": "Presidential Approval", "icon": "🏛️" }
   ]
 }
