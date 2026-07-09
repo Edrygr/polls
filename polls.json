@@ -631,11 +631,65 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
+    },
+    {
+      "poll_id": "emr_appr_001",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-08",
+      "sample_size": 1200,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 39 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 55 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_005",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-06",
+      "sample_size": 1603,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61 }
+      ]
+    },
+    {
+      "poll_id": "civiqs_002",
+      "pollster": "Civiqs",
+      "sponsor": "Civiqs",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-08",
+      "sample_size": 2200,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-07-04",
-    "total_polls": 36,
+    "last_updated": "2026-07-09",
+    "total_polls": 39,
     "source": "Verified from primary sources: Fox News, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
