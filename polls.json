@@ -685,11 +685,119 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
       ]
+    },
+    {
+      "poll_id": "emr_007",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-07-19",
+      "end_date": "2026-07-20",
+      "sample_size": 1100,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 53 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
+      ]
+    },
+    {
+      "poll_id": "emr_appr_002",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-07-19",
+      "end_date": "2026-07-20",
+      "sample_size": 1100,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 39 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 57 }
+      ]
+    },
+    {
+      "poll_id": "fox_003",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-20",
+      "sample_size": 1003,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 53 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 46 }
+      ]
+    },
+    {
+      "poll_id": "fox_appr_002",
+      "pollster": "Fox News",
+      "sponsor": "Fox News",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-20",
+      "sample_size": 1003,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 39 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61 }
+      ]
+    },
+    {
+      "poll_id": "yg_004",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-20",
+      "sample_size": 1602,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 39 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 33 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_006",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-20",
+      "sample_size": 1602,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-07-09",
-    "total_polls": 39,
+    "last_updated": "2026-07-26",
+    "total_polls": 45,
     "source": "Verified from primary sources: Fox News, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
