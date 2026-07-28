@@ -3,11 +3,11 @@
     {
       "poll_id": "avg_generic_ballot",
       "pollster": "Poll Average",
-      "sponsor": "RealClearPolitics average",
+      "sponsor": "Multi-pollster average",
       "population": "Mixed",
       "methodology": "Rolling average",
-      "start_date": "2026-06-08",
-      "end_date": "2026-07-01",
+      "start_date": "2026-01-14",
+      "end_date": "2026-07-20",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48.9 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42.3 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.0 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41.9 }
       ]
     },
     {
@@ -25,8 +25,8 @@
       "sponsor": "Multi-pollster average",
       "population": "Mixed",
       "methodology": "Rolling average",
-      "start_date": "2026-06-08",
-      "end_date": "2026-07-01",
+      "start_date": "2026-01-19",
+      "end_date": "2026-07-27",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 37.0 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.0 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 38.0 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.7 }
       ]
     },
     {
@@ -793,12 +793,66 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60 }
       ]
+    },
+    {
+      "poll_id": "yg_appr_007",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-27",
+      "sample_size": 1559,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 34 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
+      ]
+    },
+    {
+      "poll_id": "cbs_appr_001",
+      "pollster": "CBS News / YouGov",
+      "sponsor": "CBS News",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-21",
+      "end_date": "2026-07-24",
+      "sample_size": 2193,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 39 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61 }
+      ]
+    },
+    {
+      "poll_id": "civiqs_003",
+      "pollster": "Civiqs",
+      "sponsor": "Civiqs",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "sample_size": 2200,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-07-26",
-    "total_polls": 45,
-    "source": "Verified from primary sources: Fox News, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
+    "last_updated": "2026-07-28",
+    "total_polls": 48,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
