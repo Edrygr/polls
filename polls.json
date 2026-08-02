@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.0 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41.9 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48.9 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41.7 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-07-27",
+      "end_date": "2026-08-01",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 38.0 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.7 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37.0 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.5 }
       ]
     },
     {
@@ -847,11 +847,83 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
+    },
+    {
+      "poll_id": "qu_003",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-27",
+      "sample_size": 963,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41 }
+      ]
+    },
+    {
+      "poll_id": "qu_appr_002",
+      "pollster": "Quinnipiac University",
+      "sponsor": "Quinnipiac",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-27",
+      "sample_size": 963,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 32 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
+      ]
+    },
+    {
+      "poll_id": "appr_007",
+      "pollster": "AP-NORC",
+      "sponsor": "Associated Press",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-27",
+      "sample_size": 1165,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 33 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 66 }
+      ]
+    },
+    {
+      "poll_id": "civiqs_004",
+      "pollster": "Civiqs",
+      "sponsor": "Civiqs",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-07-28",
+      "end_date": "2026-08-01",
+      "sample_size": 2200,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-07-28",
-    "total_polls": 48,
+    "last_updated": "2026-08-01",
+    "total_polls": 52,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
