@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48.9 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41.7 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.7 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.1 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-01",
+      "end_date": "2026-08-03",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -919,11 +919,47 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59 }
       ]
+    },
+    {
+      "poll_id": "yg_005",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-27",
+      "sample_size": 1559,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 46 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42 }
+      ]
+    },
+    {
+      "poll_id": "hh_004",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "sample_size": 1776,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 50 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-08-01",
-    "total_polls": 52,
+    "last_updated": "2026-08-03",
+    "total_polls": 54,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
