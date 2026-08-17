@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-07-20",
+      "end_date": "2026-08-11",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.7 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.1 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48.4 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41.8 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-03",
+      "end_date": "2026-08-11",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 37.2 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.2 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 38.1 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.5 }
       ]
     },
     {
@@ -991,11 +991,29 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58 }
       ]
+    },
+    {
+      "poll_id": "yg_appr_009",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-10",
+      "sample_size": 1589,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 33 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-08-08",
-    "total_polls": 56,
+    "last_updated": "2026-08-17",
+    "total_polls": 57,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
