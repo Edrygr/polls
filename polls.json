@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-08-11",
+      "end_date": "2026-08-22",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48.4 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41.8 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.5 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.4 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-11",
+      "end_date": "2026-08-22",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 38.1 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.5 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.1 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.9 }
       ]
     },
     {
@@ -1009,11 +1009,65 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 33 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
       ]
+    },
+    {
+      "poll_id": "ipsos_appr_001",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-17",
+      "sample_size": 1166,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 33 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 64 }
+      ]
+    },
+    {
+      "poll_id": "emr_008",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-17",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "emr_appr_003",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-17",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 40 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 56 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-08-17",
-    "total_polls": 57,
+    "last_updated": "2026-08-22",
+    "total_polls": 60,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
