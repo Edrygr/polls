@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-08-22",
+      "end_date": "2026-08-24",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-22",
+      "end_date": "2026-08-24",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -35,7 +35,7 @@
       "is_average": true,
       "results": [
         { "party": "APPROVE",    "choice": "Approve",    "pct": 36.1 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.9 }
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.8 }
       ]
     },
     {
@@ -1011,6 +1011,42 @@
       ]
     },
     {
+      "poll_id": "yg_006",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-17",
+      "sample_size": 1611,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 46 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 39 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_010",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-17",
+      "sample_size": 1611,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61 }
+      ]
+    },
+    {
       "poll_id": "ipsos_appr_001",
       "pollster": "Ipsos / Reuters",
       "sponsor": "Reuters",
@@ -1066,8 +1102,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-08-22",
-    "total_polls": 60,
+    "last_updated": "2026-08-24",
+    "total_polls": 62,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
   },
   "topics": [
