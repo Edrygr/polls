@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-08-24",
+      "end_date": "2026-08-26",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-24",
+      "end_date": "2026-08-26",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -35,7 +35,7 @@
       "is_average": true,
       "results": [
         { "party": "APPROVE",    "choice": "Approve",    "pct": 36.1 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.8 }
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.7 }
       ]
     },
     {
@@ -1099,12 +1099,120 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 40 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 56 }
       ]
+    },
+    {
+      "poll_id": "yg_007",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-24",
+      "sample_size": 1536,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 46 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 40 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_011",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-24",
+      "sample_size": 1536,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 57 }
+      ]
+    },
+    {
+      "poll_id": "ipsos_001",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-24",
+      "sample_size": 951,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 41 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 35 }
+      ]
+    },
+    {
+      "poll_id": "ipsos_appr_002",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-24",
+      "sample_size": 1215,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 33 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 65 }
+      ]
+    },
+    {
+      "poll_id": "vera_001",
+      "pollster": "Verasight",
+      "sponsor": "Strength In Numbers",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-19",
+      "sample_size": 1514,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 41 }
+      ]
+    },
+    {
+      "poll_id": "vera_appr_001",
+      "pollster": "Verasight",
+      "sponsor": "Strength In Numbers",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-19",
+      "sample_size": 1514,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-08-24",
-    "total_polls": 62,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs"
+    "last_updated": "2026-08-26",
+    "total_polls": 67,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
