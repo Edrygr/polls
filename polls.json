@@ -1207,15 +1207,71 @@
         { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
         { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60 }
       ]
+    },
+    {
+      "poll_id": "sen_ga_001",
+      "pollster": "InsiderAdvantage",
+      "sponsor": "InsiderAdvantage",
+      "population": "LV",
+      "methodology": "IVR / Online panel",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-17",
+      "sample_size": null,
+      "state": "GA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Jon Ossoff",  "pct": 50 },
+        { "party": "REP", "choice": "Mike Collins", "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "sen_nc_001",
+      "pollster": "Carolina Forward / Change Research",
+      "sponsor": "Carolina Forward",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-06",
+      "sample_size": 915,
+      "state": "NC",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Roy Cooper",       "pct": 50 },
+        { "party": "REP", "choice": "Michael Whatley",  "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "sen_oh_001",
+      "pollster": "Pollsmax Average",
+      "sponsor": "Pollsmax (16-poll average)",
+      "population": "Mixed",
+      "methodology": "Polling average",
+      "start_date": "2026-06-01",
+      "end_date": "2026-08-13",
+      "sample_size": null,
+      "state": "OH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Sherrod Brown", "pct": 45.3 },
+        { "party": "REP", "choice": "Jon Husted",    "pct": 47.1 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-08-26",
-    "total_polls": 67,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers"
+    "last_updated": "2026-08-30",
+    "total_polls": 70,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Pollsmax average"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
-    { "value": "Presidential Approval", "label": "Presidential Approval", "icon": "🏛️" }
+    { "value": "Presidential Approval", "label": "Presidential Approval", "icon": "🏛️" },
+    { "value": "Senate",                "label": "Senate",                "icon": "🏛️" }
   ]
 }
