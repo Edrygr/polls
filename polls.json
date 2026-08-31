@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-08-26",
+      "end_date": "2026-08-30",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -16,7 +16,7 @@
       "is_average": true,
       "results": [
         { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.5 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.4 }
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.3 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-26",
+      "end_date": "2026-08-30",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.1 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.7 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.2 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.5 }
       ]
     },
     {
@@ -1216,7 +1216,7 @@
       "methodology": "IVR / Online panel",
       "start_date": "2026-08-16",
       "end_date": "2026-08-17",
-      "sample_size": null,
+      "sample_size": 800,
       "state": "GA",
       "district": null,
       "office": "senate",
@@ -1262,12 +1262,212 @@
         { "party": "DEM", "choice": "Sherrod Brown", "pct": 45.3 },
         { "party": "REP", "choice": "Jon Husted",    "pct": 47.1 }
       ]
+    },
+    {
+      "poll_id": "sen_nc_002",
+      "pollster": "Elon University",
+      "sponsor": "Elon University Poll",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-31",
+      "sample_size": 800,
+      "state": "NC",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Roy Cooper",       "pct": 53 },
+        { "party": "REP", "choice": "Michael Whatley",  "pct": 42 }
+      ]
+    },
+    {
+      "poll_id": "sen_nc_003",
+      "pollster": "High Point University",
+      "sponsor": "HPU Survey Research Center",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-12",
+      "sample_size": 660,
+      "state": "NC",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Roy Cooper",       "pct": 50 },
+        { "party": "REP", "choice": "Michael Whatley",  "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "avg_sen_nc",
+      "pollster": "Pollsmax Average",
+      "sponsor": "Pollsmax (26-poll average)",
+      "population": "Mixed",
+      "methodology": "Polling average",
+      "start_date": "2025-07-30",
+      "end_date": "2026-08-18",
+      "sample_size": null,
+      "state": "NC",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Roy Cooper",       "pct": 48.7 },
+        { "party": "REP", "choice": "Michael Whatley",  "pct": 43.1 }
+      ]
+    },
+    {
+      "poll_id": "sen_oh_002",
+      "pollster": "Wedgewood Polls",
+      "sponsor": "Wedgewood Polls",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-13",
+      "sample_size": 800,
+      "state": "OH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Sherrod Brown",  "pct": 48 },
+        { "party": "REP", "choice": "Jon Husted",     "pct": 44 }
+      ]
+    },
+    {
+      "poll_id": "sen_mi_001",
+      "pollster": "Susquehanna Polling & Research",
+      "sponsor": "Susquehanna Polling & Research",
+      "population": "LV",
+      "methodology": "Live phone",
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-17",
+      "sample_size": 800,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 46 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 39 }
+      ]
+    },
+    {
+      "poll_id": "sen_mi_002",
+      "pollster": "Fabrizio Ward / Impact Research",
+      "sponsor": "AARP Michigan",
+      "population": "LV",
+      "methodology": "Live phone / SMS-to-web",
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-11",
+      "sample_size": 877,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 48 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 47 }
+      ]
+    },
+    {
+      "poll_id": "avg_sen_mi",
+      "pollster": "Pollsmax Average",
+      "sponsor": "Pollsmax (21-poll average)",
+      "population": "Mixed",
+      "methodology": "Polling average",
+      "start_date": "2025-05-08",
+      "end_date": "2026-08-17",
+      "sample_size": null,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 44.6 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 44.1 }
+      ]
+    },
+    {
+      "poll_id": "sen_me_001",
+      "pollster": "Fox News",
+      "sponsor": "Fox News (Beacon Research / Shaw & Co.)",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-10",
+      "sample_size": 1000,
+      "state": "ME",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Troy Jackson",   "pct": 48 },
+        { "party": "REP", "choice": "Susan Collins",  "pct": 46 }
+      ]
+    },
+    {
+      "poll_id": "sen_nh_001",
+      "pollster": "University of New Hampshire",
+      "sponsor": "UNH Survey Center / Granite State Poll",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-24",
+      "sample_size": 1878,
+      "state": "NH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Chris Pappas",    "pct": 43 },
+        { "party": "REP", "choice": "John E. Sununu",  "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_001",
+      "pollster": "University of Texas / YouGov",
+      "sponsor": "Texas Politics Project",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-13",
+      "sample_size": 1200,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico",  "pct": 42 },
+        { "party": "REP", "choice": "Ken Paxton",      "pct": 39 }
+      ]
+    },
+    {
+      "poll_id": "sen_ak_001",
+      "pollster": "Data for Progress",
+      "sponsor": "Data for Progress",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-07-28",
+      "end_date": "2026-08-04",
+      "sample_size": 605,
+      "state": "AK",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Mary Peltola",  "pct": 47 },
+        { "party": "REP", "choice": "Dan Sullivan",  "pct": 41 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-08-30",
-    "total_polls": 70,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Pollsmax average"
+    "last_updated": "2026-08-31",
+    "total_polls": 81,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
