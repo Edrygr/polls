@@ -3,11 +3,11 @@
     {
       "poll_id": "avg_generic_ballot",
       "pollster": "Poll Average",
-      "sponsor": "Multi-pollster average",
+      "sponsor": "Multi-pollster average (FiftyPlusOne)",
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-08-30",
+      "end_date": "2026-08-31",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -22,11 +22,11 @@
     {
       "poll_id": "avg_presidential_approval",
       "pollster": "Poll Average",
-      "sponsor": "Multi-pollster average",
+      "sponsor": "Multi-pollster average (FiftyPlusOne)",
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-08-30",
+      "end_date": "2026-08-31",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.2 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.5 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.0 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.4 }
       ]
     },
     {
@@ -1209,6 +1209,96 @@
       ]
     },
     {
+      "poll_id": "mcl_001",
+      "pollster": "McLaughlin & Associates",
+      "sponsor": "McLaughlin & Associates",
+      "population": "LV",
+      "methodology": "Not disclosed",
+      "start_date": "2026-08-18",
+      "end_date": "2026-08-24",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 48 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "umass_appr_001",
+      "pollster": "UMass Amherst / YouGov",
+      "sponsor": "UMass Amherst Poll",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-26",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 32 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 64 }
+      ]
+    },
+    {
+      "poll_id": "tipp_appr_001",
+      "pollster": "TIPP Insights",
+      "sponsor": "Issues & Insights / TIPP Poll",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-28",
+      "sample_size": 1461,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 38 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 52 }
+      ]
+    },
+    {
+      "poll_id": "quantus_001",
+      "pollster": "Quantus Insights",
+      "sponsor": "Quantus Insights",
+      "population": "LV",
+      "methodology": "SMS-to-mobile",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "sample_size": 1200,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.7 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 42.8 }
+      ]
+    },
+    {
+      "poll_id": "quantus_appr_001",
+      "pollster": "Quantus Insights",
+      "sponsor": "Quantus Insights",
+      "population": "LV",
+      "methodology": "SMS-to-mobile",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "sample_size": 1200,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 41.9 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 56.7 }
+      ]
+    },
+    {
       "poll_id": "sen_ga_001",
       "pollster": "InsiderAdvantage",
       "sponsor": "InsiderAdvantage",
@@ -1374,12 +1464,12 @@
     },
     {
       "poll_id": "avg_sen_mi",
-      "pollster": "Pollsmax Average",
-      "sponsor": "Pollsmax (21-poll average)",
+      "pollster": "FiftyPlusOne Average",
+      "sponsor": "FiftyPlusOne (poll average)",
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2025-05-08",
-      "end_date": "2026-08-17",
+      "end_date": "2026-08-31",
       "sample_size": null,
       "state": "MI",
       "district": null,
@@ -1387,8 +1477,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 44.6 },
-        { "party": "REP", "choice": "Mike Rogers",     "pct": 44.1 }
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 46.5 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 43.9 }
       ]
     },
     {
@@ -1480,12 +1570,159 @@
         { "party": "DEM", "choice": "Josh Turek",   "pct": 45 },
         { "party": "REP", "choice": "Ashley Hinson", "pct": 48 }
       ]
+    },
+    {
+      "poll_id": "sen_nh_002",
+      "pollster": "Saint Anselm College Survey Center",
+      "sponsor": "Saint Anselm College Survey Center",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-18",
+      "sample_size": 1411,
+      "state": "NH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Chris Pappas",   "pct": 48 },
+        { "party": "REP", "choice": "John E. Sununu", "pct": 41 }
+      ]
+    },
+    {
+      "poll_id": "avg_sen_nh",
+      "pollster": "Pollsmax Average",
+      "sponsor": "Pollsmax (16-poll average)",
+      "population": "Mixed",
+      "methodology": "Polling average",
+      "start_date": "2026-04-21",
+      "end_date": "2026-08-24",
+      "sample_size": null,
+      "state": "NH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Chris Pappas",   "pct": 46.9 },
+        { "party": "REP", "choice": "John E. Sununu", "pct": 41.3 }
+      ]
+    },
+    {
+      "poll_id": "sen_ia_002",
+      "pollster": "Suffolk University",
+      "sponsor": "Suffolk University Political Research Center",
+      "population": "LV",
+      "methodology": "Live phone",
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-23",
+      "sample_size": 500,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 40.8 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 45.4 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_002",
+      "pollster": "Slingshot Strategies",
+      "sponsor": "Texas Public Opinion Research",
+      "population": "LV",
+      "methodology": "Not disclosed",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-24",
+      "sample_size": 1000,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 48 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 42 }
+      ]
+    },
+    {
+      "poll_id": "avg_sen_tx",
+      "pollster": "FiftyPlusOne Average",
+      "sponsor": "FiftyPlusOne (poll average)",
+      "population": "Mixed",
+      "methodology": "Polling average",
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-31",
+      "sample_size": null,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 46.7 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 44.1 }
+      ]
+    },
+    {
+      "poll_id": "sen_mi_003",
+      "pollster": "EPIC-MRA",
+      "sponsor": "EPIC-MRA",
+      "population": "LV",
+      "methodology": "Live phone",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-28",
+      "sample_size": 600,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed", "pct": 47 },
+        { "party": "REP", "choice": "Mike Rogers",    "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "sen_ia_003",
+      "pollster": "Wedgewood Polls",
+      "sponsor": "Wedgewood Polls",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-29",
+      "sample_size": 600,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 48 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 50 }
+      ]
+    },
+    {
+      "poll_id": "avg_sen_ia",
+      "pollster": "FiftyPlusOne Average",
+      "sponsor": "FiftyPlusOne (poll average)",
+      "population": "Mixed",
+      "methodology": "Polling average",
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-31",
+      "sample_size": null,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "is_average": true,
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 45.8 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 46.7 }
+      ]
     }
   ],
   "meta": {
     "last_updated": "2026-08-31",
-    "total_polls": 82,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, Pollsmax averages, FiftyPlusOne averages"
+    "total_polls": 95,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
