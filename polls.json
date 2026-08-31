@@ -1462,11 +1462,29 @@
         { "party": "DEM", "choice": "Mary Peltola",  "pct": 47 },
         { "party": "REP", "choice": "Dan Sullivan",  "pct": 41 }
       ]
+    },
+    {
+      "poll_id": "sen_ia_001",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-04",
+      "sample_size": null,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",   "pct": 45 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 48 }
+      ]
     }
   ],
   "meta": {
     "last_updated": "2026-08-31",
-    "total_polls": 81,
+    "total_polls": 82,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
