@@ -1807,12 +1807,48 @@
         { "party": "DEM", "choice": "Sherrod Brown", "pct": 53 },
         { "party": "REP", "choice": "Jon Husted",    "pct": 45 }
       ]
+    },
+    {
+      "poll_id": "sen_ak_002",
+      "pollster": "Alaska Survey Research",
+      "sponsor": "Alaska Survey Research",
+      "population": "LV",
+      "methodology": "Ranked-choice final round",
+      "start_date": "2026-08-02",
+      "end_date": "2026-08-05",
+      "sample_size": 1371,
+      "state": "AK",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Mary Peltola", "pct": 50.8 },
+        { "party": "REP", "choice": "Dan Sullivan", "pct": 49.2 }
+      ]
+    },
+    {
+      "poll_id": "sen_ar_001",
+      "pollster": "Talk Business & Politics / Hendrix College",
+      "sponsor": "Talk Business & Politics",
+      "population": "LV",
+      "methodology": "SMS / Text",
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-12",
+      "sample_size": 1217,
+      "state": "AR",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Hallie Shoffner", "pct": 47.4 },
+        { "party": "REP", "choice": "Tom Cotton",      "pct": 44 }
+      ]
     }
   ],
   "meta": {
     "last_updated": "2026-09-02",
-    "total_polls": 100,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Pollsmax averages, FiftyPlusOne averages"
+    "total_polls": 102,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
