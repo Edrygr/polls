@@ -1541,7 +1541,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2025-05-08",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-02",
       "sample_size": null,
       "state": "MI",
       "district": null,
@@ -1549,8 +1549,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 46.5 },
-        { "party": "REP", "choice": "Mike Rogers",     "pct": 43.9 }
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 47.2 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 43.8 }
       ]
     },
     {
@@ -1723,7 +1723,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2026-08-05",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-02",
       "sample_size": null,
       "state": "TX",
       "district": null,
@@ -1731,8 +1731,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "James Talarico", "pct": 46.7 },
-        { "party": "REP", "choice": "Ken Paxton",     "pct": 44.1 }
+        { "party": "DEM", "choice": "James Talarico", "pct": 47.3 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 45.0 }
       ]
     },
     {
@@ -1843,12 +1843,84 @@
         { "party": "DEM", "choice": "Hallie Shoffner", "pct": 47.4 },
         { "party": "REP", "choice": "Tom Cotton",      "pct": 44 }
       ]
+    },
+    {
+      "poll_id": "sen_nc_004",
+      "pollster": "Harper Polling",
+      "sponsor": "Carolina Journal / John Locke Foundation",
+      "population": "LV",
+      "methodology": "Not disclosed",
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-10",
+      "sample_size": 600,
+      "state": "NC",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Roy Cooper",       "pct": 52 },
+        { "party": "REP", "choice": "Michael Whatley",  "pct": 39 }
+      ]
+    },
+    {
+      "poll_id": "sen_mi_004",
+      "pollster": "Michigan State University (IPPSR)",
+      "sponsor": "MSU State of the State Survey",
+      "population": "RV",
+      "methodology": "Online panel (YouGov)",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-20",
+      "sample_size": 913,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed", "pct": 48 },
+        { "party": "REP", "choice": "Mike Rogers",    "pct": 44 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_003",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling",
+      "population": "LV",
+      "methodology": "Online / IVR",
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-10",
+      "sample_size": 1000,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 46 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 47 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_004",
+      "pollster": "Overton Insights",
+      "sponsor": "Texas Public Policy Foundation",
+      "population": "LV",
+      "methodology": "Not disclosed",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-26",
+      "sample_size": 1167,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 44 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 43.6 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-09-02",
-    "total_polls": 102,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Pollsmax averages, FiftyPlusOne averages"
+    "last_updated": "2026-09-03",
+    "total_polls": 106,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
