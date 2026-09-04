@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-09-01",
+      "end_date": "2026-09-03",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.6 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.3 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.5 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.5 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-09-01",
+      "end_date": "2026-09-03",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 35.8 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.7 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.0 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.5 }
       ]
     },
     {
@@ -1778,7 +1778,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2026-08-02",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-03",
       "sample_size": null,
       "state": "IA",
       "district": null,
@@ -1786,8 +1786,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Josh Turek",    "pct": 45.8 },
-        { "party": "REP", "choice": "Ashley Hinson", "pct": 46.7 }
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 46.3 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 47.2 }
       ]
     },
     {
@@ -1915,11 +1915,65 @@
         { "party": "DEM", "choice": "James Talarico", "pct": 44 },
         { "party": "REP", "choice": "Ken Paxton",     "pct": 43.6 }
       ]
+    },
+    {
+      "poll_id": "hh_005",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-30",
+      "sample_size": 2100,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 49 }
+      ]
+    },
+    {
+      "poll_id": "hh_appr_002",
+      "pollster": "Harvard-Harris",
+      "sponsor": "Harvard CAPS",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-30",
+      "sample_size": 2100,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 44 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 52 }
+      ]
+    },
+    {
+      "poll_id": "sen_ia_004",
+      "pollster": "Emerson College",
+      "sponsor": "Emerson College Polling / Nexstar Media",
+      "population": "LV",
+      "methodology": "MMS text-to-web / Online panel",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-01",
+      "sample_size": 750,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 45 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 50 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-09-03",
-    "total_polls": 106,
+    "last_updated": "2026-09-04",
+    "total_polls": 109,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
