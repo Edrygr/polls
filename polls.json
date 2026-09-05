@@ -1409,11 +1409,11 @@
     {
       "poll_id": "sen_oh_001",
       "pollster": "Pollsmax Average",
-      "sponsor": "Pollsmax (16-poll average)",
+      "sponsor": "Pollsmax (17-poll average)",
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2026-06-01",
-      "end_date": "2026-08-13",
+      "end_date": "2026-08-28",
       "sample_size": null,
       "state": "OH",
       "district": null,
@@ -1421,8 +1421,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Sherrod Brown", "pct": 45.3 },
-        { "party": "REP", "choice": "Jon Husted",    "pct": 47.1 }
+        { "party": "DEM", "choice": "Sherrod Brown", "pct": 45.8 },
+        { "party": "REP", "choice": "Jon Husted",    "pct": 46.9 }
       ]
     },
     {
@@ -1541,7 +1541,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2025-05-08",
-      "end_date": "2026-09-02",
+      "end_date": "2026-09-05",
       "sample_size": null,
       "state": "MI",
       "district": null,
@@ -1550,7 +1550,7 @@
       "is_average": true,
       "results": [
         { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 47.2 },
-        { "party": "REP", "choice": "Mike Rogers",     "pct": 43.8 }
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 43.9 }
       ]
     },
     {
@@ -2169,12 +2169,120 @@
         { "party": "DEM", "choice": "Annie Andrews", "pct": 40.0 },
         { "party": "REP", "choice": "Darline Graham", "pct": 41.0 }
       ]
+    },
+    {
+      "poll_id": "sen_oh_004",
+      "pollster": "Abacus Data",
+      "sponsor": "Abacus Data",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "sample_size": 306,
+      "state": "OH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Sherrod Brown", "pct": 52 },
+        { "party": "REP", "choice": "Jon Husted",    "pct": 46 }
+      ]
+    },
+    {
+      "poll_id": "sen_mi_008",
+      "pollster": "Abacus Data",
+      "sponsor": "Abacus Data",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "sample_size": 332,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 49 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "sen_ia_005",
+      "pollster": "Abacus Data",
+      "sponsor": "Abacus Data",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "sample_size": 323,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 54 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "sen_me_003",
+      "pollster": "Abacus Data",
+      "sponsor": "Abacus Data",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "sample_size": 327,
+      "state": "ME",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Troy Jackson",   "pct": 52 },
+        { "party": "REP", "choice": "Susan Collins",  "pct": 43 }
+      ]
+    },
+    {
+      "poll_id": "sen_nh_003",
+      "pollster": "Fabrizio, Lee & Associates",
+      "sponsor": "NRSC",
+      "population": "LV",
+      "methodology": "Live phone / SMS-to-web",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-30",
+      "sample_size": 600,
+      "state": "NH",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Chris Pappas",    "pct": 36 },
+        { "party": "REP", "choice": "John E. Sununu",  "pct": 37 }
+      ]
+    },
+    {
+      "poll_id": "sen_ak_003",
+      "pollster": "Alaska Survey Research",
+      "sponsor": "Alaska Survey Research",
+      "population": "LV",
+      "methodology": "Ranked-choice final round",
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-23",
+      "sample_size": 1495,
+      "state": "AK",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Mary Peltola", "pct": 51 },
+        { "party": "REP", "choice": "Dan Sullivan", "pct": 49 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-09-04",
-    "total_polls": 120,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Pollsmax averages, FiftyPlusOne averages"
+    "last_updated": "2026-09-05",
+    "total_polls": 126,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
