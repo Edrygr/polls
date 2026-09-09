@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-09-04",
+      "end_date": "2026-09-09",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.7 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.7 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 49.8 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.6 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-09-04",
+      "end_date": "2026-09-09",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.1 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 59.4 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35.6 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60.2 }
       ]
     },
     {
@@ -1541,7 +1541,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2025-05-08",
-      "end_date": "2026-09-05",
+      "end_date": "2026-09-09",
       "sample_size": null,
       "state": "MI",
       "district": null,
@@ -1549,8 +1549,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 47.2 },
-        { "party": "REP", "choice": "Mike Rogers",     "pct": 43.9 }
+        { "party": "DEM", "choice": "Abdul El-Sayed",  "pct": 46.7 },
+        { "party": "REP", "choice": "Mike Rogers",     "pct": 44.1 }
       ]
     },
     {
@@ -2277,12 +2277,102 @@
         { "party": "DEM", "choice": "Mary Peltola", "pct": 51 },
         { "party": "REP", "choice": "Dan Sullivan", "pct": 49 }
       ]
+    },
+    {
+      "poll_id": "yg_009",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-08",
+      "sample_size": 1469,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 42 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 35 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_013",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-08",
+      "sample_size": 1469,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 37 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61 }
+      ]
+    },
+    {
+      "poll_id": "focaldata_001",
+      "pollster": "Focaldata",
+      "sponsor": "Financial Times",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-28",
+      "end_date": "2026-09-02",
+      "sample_size": 1837,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 52 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "sen_mi_009",
+      "pollster": "Glengariff Group",
+      "sponsor": "WDIV / The Detroit News",
+      "population": "LV",
+      "methodology": "Live phone",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-03",
+      "sample_size": 600,
+      "state": "MI",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Abdul El-Sayed", "pct": 44.4 },
+        { "party": "REP", "choice": "Mike Rogers",    "pct": 45.8 }
+      ]
+    },
+    {
+      "poll_id": "sen_mn_001",
+      "pollster": "TIPP Insights",
+      "sponsor": "League of American Workers",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-02",
+      "sample_size": 1201,
+      "state": "MN",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Peggy Flanagan", "pct": 44 },
+        { "party": "REP", "choice": "Michele Tafoya", "pct": 42 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-09-05",
-    "total_polls": 126,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Pollsmax averages, FiftyPlusOne averages"
+    "last_updated": "2026-09-09",
+    "total_polls": 131,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Focaldata/Financial Times, Glengariff Group (WDIV/Detroit News), Pollsmax averages, FiftyPlusOne averages"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
