@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-09-13",
+      "end_date": "2026-09-15",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50.0 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.5 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50.3 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.4 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-09-13",
+      "end_date": "2026-09-15",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.0 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60.4 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36.3 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 60.2 }
       ]
     },
     {
@@ -2728,11 +2728,47 @@
         { "party": "DEM", "choice": "Jon Ossoff",   "pct": 50.8 },
         { "party": "REP", "choice": "Mike Collins", "pct": 42.6 }
       ]
+    },
+    {
+      "poll_id": "ipsos_003",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-14",
+      "sample_size": 896,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 44 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 37 }
+      ]
+    },
+    {
+      "poll_id": "ipsos_appr_004",
+      "pollster": "Ipsos / Reuters",
+      "sponsor": "Reuters",
+      "population": "A",
+      "methodology": "Online panel",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-14",
+      "sample_size": 1143,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 62 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-09-14",
-    "total_polls": 151,
+    "last_updated": "2026-09-15",
+    "total_polls": 153,
     "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Focaldata/Financial Times, Glengariff Group (WDIV/Detroit News), CNN/SSRS, N+ Univision News/YouGov, YouGov (Maine), Pollsmax averages, FiftyPlusOne averages, Trafalgar Group, Rasmussen Reports, East Carolina University (ECU Center for Survey Research)"
   },
   "topics": [
