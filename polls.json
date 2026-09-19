@@ -1732,7 +1732,7 @@
       "is_average": true,
       "results": [
         { "party": "DEM", "choice": "James Talarico", "pct": 47.9 },
-        { "party": "REP", "choice": "Ken Paxton",     "pct": 44.5 }
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 44.3 }
       ]
     },
     {
@@ -2717,7 +2717,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2026-08-16",
-      "end_date": "2026-09-16",
+      "end_date": "2026-09-18",
       "sample_size": null,
       "state": "GA",
       "district": null,
@@ -2725,8 +2725,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "Jon Ossoff",   "pct": 50.3 },
-        { "party": "REP", "choice": "Mike Collins", "pct": 42.7 }
+        { "party": "DEM", "choice": "Jon Ossoff",   "pct": 50.1 },
+        { "party": "REP", "choice": "Mike Collins", "pct": 43.2 }
       ]
     },
     {
@@ -3360,12 +3360,84 @@
         { "party": "DEM", "choice": "Chris Pappas",   "pct": 48 },
         { "party": "REP", "choice": "John E. Sununu", "pct": 40 }
       ]
+    },
+    {
+      "poll_id": "bigdata_001",
+      "pollster": "Big Data Poll",
+      "sponsor": "Big Data Poll (Public Polling Project)",
+      "population": "LV",
+      "methodology": "Mixed mode (online panel / live phone / text)",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-15",
+      "sample_size": 2633,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 50.5 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 39.3 }
+      ]
+    },
+    {
+      "poll_id": "bigdata_appr_001",
+      "pollster": "Big Data Poll",
+      "sponsor": "Big Data Poll (Public Polling Project)",
+      "population": "LV",
+      "methodology": "Mixed mode (online panel / live phone / text)",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-15",
+      "sample_size": 2633,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 38.8 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 58.5 }
+      ]
+    },
+    {
+      "poll_id": "sen_ga_004",
+      "pollster": "Quantus Insights",
+      "sponsor": "Quantus Insights",
+      "population": "LV",
+      "methodology": "SMS-to-mobile",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-16",
+      "sample_size": 645,
+      "state": "GA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Jon Ossoff",   "pct": 48.2 },
+        { "party": "REP", "choice": "Mike Collins", "pct": 44.4 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_012",
+      "pollster": "Trafalgar Group",
+      "sponsor": "The Trafalgar Group",
+      "population": "LV",
+      "methodology": "Mixed mode",
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-17",
+      "sample_size": 1079,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 46.4 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 45.2 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-09-18",
-    "total_polls": 186,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Focaldata/Financial Times, Glengariff Group (WDIV/Detroit News), CNN/SSRS, N+ Univision News/YouGov, YouGov (Maine), Pollsmax averages, FiftyPlusOne averages, Trafalgar Group, Rasmussen Reports, East Carolina University (ECU Center for Survey Research), Bowling Green State University/YouGov, SoCal Strategies, Mason-Dixon Polling & Strategy (Telemundo), Cygnal (Iowans for Tax Relief Foundation), co/efficient, PollingSource averages, Marquette Law School, Catawba College/YouGov, The Washington Post/Schar School (George Mason University), ReconMR/Siena Research Institute, SurveyUSA/KSTP"
+    "last_updated": "2026-09-19",
+    "total_polls": 190,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Focaldata/Financial Times, Glengariff Group (WDIV/Detroit News), CNN/SSRS, N+ Univision News/YouGov, YouGov (Maine), Pollsmax averages, FiftyPlusOne averages, Trafalgar Group, Rasmussen Reports, East Carolina University (ECU Center for Survey Research), Bowling Green State University/YouGov, SoCal Strategies, Mason-Dixon Polling & Strategy (Telemundo), Cygnal (Iowans for Tax Relief Foundation), co/efficient, PollingSource averages, Marquette Law School, Catawba College/YouGov, The Washington Post/Schar School (George Mason University), ReconMR/Siena Research Institute, SurveyUSA/KSTP, Big Data Poll (Public Polling Project)"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
