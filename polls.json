@@ -7,7 +7,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-14",
-      "end_date": "2026-10-14",
+      "end_date": "2026-10-16",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -15,8 +15,8 @@
       "topic": "Generic Ballot",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51.0 },
-        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.2 }
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 51.3 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 43.1 }
       ]
     },
     {
@@ -26,7 +26,7 @@
       "population": "Mixed",
       "methodology": "Rolling average",
       "start_date": "2026-01-19",
-      "end_date": "2026-10-14",
+      "end_date": "2026-10-16",
       "sample_size": null,
       "state": "national",
       "district": null,
@@ -34,8 +34,8 @@
       "topic": "Presidential Approval",
       "is_average": true,
       "results": [
-        { "party": "APPROVE",    "choice": "Approve",    "pct": 34.7 },
-        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61.9 }
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35.2 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61.5 }
       ]
     },
     {
@@ -1723,7 +1723,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2026-08-05",
-      "end_date": "2026-10-14",
+      "end_date": "2026-10-16",
       "sample_size": null,
       "state": "TX",
       "district": null,
@@ -1731,8 +1731,8 @@
       "topic": "Senate",
       "is_average": true,
       "results": [
-        { "party": "DEM", "choice": "James Talarico", "pct": 48.2 },
-        { "party": "REP", "choice": "Ken Paxton",     "pct": 45.1 }
+        { "party": "DEM", "choice": "James Talarico", "pct": 48.5 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 45.5 }
       ]
     },
     {
@@ -1778,7 +1778,7 @@
       "population": "Mixed",
       "methodology": "Polling average",
       "start_date": "2026-08-02",
-      "end_date": "2026-10-14",
+      "end_date": "2026-10-16",
       "sample_size": null,
       "state": "IA",
       "district": null,
@@ -1787,7 +1787,7 @@
       "is_average": true,
       "results": [
         { "party": "DEM", "choice": "Josh Turek",    "pct": 46.5 },
-        { "party": "REP", "choice": "Ashley Hinson", "pct": 45.7 }
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 45.8 }
       ]
     },
     {
@@ -5953,12 +5953,210 @@
         { "party": "DEM", "choice": "Josh Turek",    "pct": 48.0 },
         { "party": "REP", "choice": "Ashley Hinson", "pct": 43.6 }
       ]
+    },
+    {
+      "poll_id": "fox_005",
+      "pollster": "Fox News",
+      "sponsor": "Fox News (Beacon Research / Shaw & Co.)",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-12",
+      "sample_size": 1202,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 54 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "fox_appr_004",
+      "pollster": "Fox News",
+      "sponsor": "Fox News (Beacon Research / Shaw & Co.)",
+      "population": "RV",
+      "methodology": "Live phone / Online",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-12",
+      "sample_size": 1202,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 36 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 64 }
+      ]
+    },
+    {
+      "poll_id": "yg_014",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-12",
+      "sample_size": 1403,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 46 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 39 }
+      ]
+    },
+    {
+      "poll_id": "yg_appr_018",
+      "pollster": "YouGov / Economist",
+      "sponsor": "The Economist",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-12",
+      "sample_size": 1403,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 38 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 61 }
+      ]
+    },
+    {
+      "poll_id": "appr_009",
+      "pollster": "AP-NORC",
+      "sponsor": "Associated Press",
+      "population": "A",
+      "methodology": "Online / phone (AmeriSpeak probability panel)",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-12",
+      "sample_size": 1119,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 35 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 64 }
+      ]
+    },
+    {
+      "poll_id": "mc_appr_002",
+      "pollster": "Morning Consult",
+      "sponsor": "Morning Consult",
+      "population": "RV",
+      "methodology": "Online panel",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "sample_size": 2204,
+      "state": "national",
+      "district": null,
+      "office": "presidential_approval",
+      "topic": "Presidential Approval",
+      "results": [
+        { "party": "APPROVE",    "choice": "Approve",    "pct": 42 },
+        { "party": "DISAPPROVE", "choice": "Disapprove", "pct": 56 }
+      ]
+    },
+    {
+      "poll_id": "activote_001",
+      "pollster": "ActiVote",
+      "sponsor": "ActiVote",
+      "population": "LV",
+      "methodology": "Mobile app panel",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-14",
+      "sample_size": 1000,
+      "state": "national",
+      "district": null,
+      "office": "house_generic",
+      "topic": "Generic Ballot",
+      "results": [
+        { "party": "APPROVE",    "choice": "Democrat",   "pct": 53.3 },
+        { "party": "DISAPPROVE", "choice": "Republican", "pct": 46.7 }
+      ]
+    },
+    {
+      "poll_id": "sen_ia_020",
+      "pollster": "Marist College",
+      "sponsor": "Marist Poll",
+      "population": "RV",
+      "methodology": "Live phone / Online / Text",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-11",
+      "sample_size": 1100,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 48 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 45 }
+      ]
+    },
+    {
+      "poll_id": "sen_ia_021",
+      "pollster": "YouGov",
+      "sponsor": "YouGov",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-12",
+      "sample_size": 2245,
+      "state": "IA",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "Josh Turek",    "pct": 47 },
+        { "party": "REP", "choice": "Ashley Hinson", "pct": 46 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_025",
+      "pollster": "University of Texas / YouGov",
+      "sponsor": "Texas Politics Project",
+      "population": "LV",
+      "methodology": "Online panel",
+      "start_date": "2026-09-25",
+      "end_date": "2026-10-05",
+      "sample_size": 861,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 50 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 47 }
+      ]
+    },
+    {
+      "poll_id": "sen_tx_026",
+      "pollster": "ActiVote",
+      "sponsor": "ActiVote",
+      "population": "LV",
+      "methodology": "Mobile app panel",
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-14",
+      "sample_size": 400,
+      "state": "TX",
+      "district": null,
+      "office": "senate",
+      "topic": "Senate",
+      "results": [
+        { "party": "DEM", "choice": "James Talarico", "pct": 51.9 },
+        { "party": "REP", "choice": "Ken Paxton",     "pct": 48.1 }
+      ]
     }
   ],
   "meta": {
-    "last_updated": "2026-10-14",
-    "total_polls": 330,
-    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Focaldata/Financial Times, Glengariff Group (WDIV/Detroit News), CNN/SSRS, N+ Univision News/YouGov, YouGov (Maine), Pollsmax averages, FiftyPlusOne averages, Trafalgar Group, Rasmussen Reports, East Carolina University (ECU Center for Survey Research), Bowling Green State University/YouGov, SoCal Strategies, Mason-Dixon Polling & Strategy (Telemundo), Cygnal (Iowans for Tax Relief Foundation), co/efficient, PollingSource averages, Marquette Law School, Catawba College/YouGov, The Washington Post/Schar School (George Mason University), ReconMR/Siena Research Institute, SurveyUSA/KSTP, Big Data Poll (Public Polling Project), Echelon Insights, Opinion Diagnostics (Common Cause North Carolina), UMass Lowell/YouGov, Fabrizio Ward/Impact Research (AARP North Carolina), Marist Poll (Iowa, Texas, Michigan, Ohio), Angus Reid USA, Suffolk University/USA TODAY Network Ohio, Barbara Jordan Public Policy Research and Survey Center (Texas Southern University), Texas Public Opinion Research, McLaughlin & Associates (Great Lakes Conservative Fund), Catawba College/YouGov (North Carolina), Verasight/The Argument, Fabrizio Ward/Impact Research (AARP Maine), High Point University (HPU Poll 127), Mitchell Research & Communications, Maine People's Resource Center, GBAO Strategies (Kansas memo via Politico), Saint Anselm College Survey Center/AARP New Hampshire (NH Institute of Politics), Wedgewood Polls (Georgia, Maine), Marist Poll (Maine), Siena/New York Times (Alaska, Iowa, Kansas, Ohio, Texas), YouGov battleground state toplines (Ohio, Michigan, New Hampshire, Texas, Kansas), Pew Research Center, Navigator Research (GBAO/Global Strategy Group), Centerline Research & Strategy, CNN/SSRS (Ohio, Iowa), co/efficient (Ohio), East Carolina University/ECU Center for Survey Research (October), The Washington Post/Schar School (Maine), UMass Lowell/YouGov (Texas), Alaska Survey Research (October), Trafalgar Group (Georgia, Texas – October), Wedgewood Polls (Michigan), Quantus Insights (Michigan), Rasmussen Reports (Maine, Minnesota, New Hampshire – October), GQR (Senate Majority PAC, Minnesota), Morning Consult/The Daily Agenda Poll (Minnesota), Emerson College Polling (Iowa – October)Rasmussen Reports (national Generic Ballot – October), TrueDot.ai (NewsNation/Decision Desk HQ), Focaldata/Financial Times (October approval), Noble Predictive Insights/The Center Square Voters' Voice Poll, SurveyUSA (WRAL/WSOC-TV, North Carolina), Trafalgar Group (North Carolina – October), Carolina Forward/Change Research (October), InsiderAdvantage (Michigan – October), Suffolk University Political Research Center (Maine, Iowa – October), ReconMR/Siena Research Institute (Texas – October), Quantus Insights (Texas – October), Marist Poll (Texas – October)"
+    "last_updated": "2026-10-16",
+    "total_polls": 341,
+    "source": "Verified from primary sources: Fox News, CBS News/YouGov, Harvard-Harris, YouGov/Economist, Siena/NYT, Emerson, Quinnipiac, Morning Consult, Marist/NPR/PBS, AP-NORC, Reuters/Ipsos, Civiqs, Verasight/Strength In Numbers, InsiderAdvantage, Carolina Forward/Change Research, Elon University, High Point University, Wedgewood Polls, Susquehanna Polling & Research, Fabrizio Ward/Impact Research (AARP), Fox News/Beacon-Shaw, UNH Survey Center, UT/Texas Politics Project, Data for Progress, McLaughlin & Associates, UMass Amherst/YouGov, TIPP Insights/Issues & Insights, Quantus Insights, Saint Anselm College Survey Center, Suffolk University, Slingshot Strategies/Texas Public Opinion Research, EPIC-MRA, Alaska Survey Research, Talk Business & Politics/Hendrix College, Harper Polling/Carolina Journal, Michigan State University (IPPSR), Overton Insights/Texas Public Policy Foundation, UMass Amherst/YouGov, Hart Research Associates (Senate Majority PAC), GBAO Strategies (Senate Majority PAC), TIPP Insights/League of American Workers, Impact Research, Abacus Data, Fabrizio Lee & Associates (NRSC), Focaldata/Financial Times, Glengariff Group (WDIV/Detroit News), CNN/SSRS, N+ Univision News/YouGov, YouGov (Maine), Pollsmax averages, FiftyPlusOne averages, Trafalgar Group, Rasmussen Reports, East Carolina University (ECU Center for Survey Research), Bowling Green State University/YouGov, SoCal Strategies, Mason-Dixon Polling & Strategy (Telemundo), Cygnal (Iowans for Tax Relief Foundation), co/efficient, PollingSource averages, Marquette Law School, Catawba College/YouGov, The Washington Post/Schar School (George Mason University), ReconMR/Siena Research Institute, SurveyUSA/KSTP, Big Data Poll (Public Polling Project), Echelon Insights, Opinion Diagnostics (Common Cause North Carolina), UMass Lowell/YouGov, Fabrizio Ward/Impact Research (AARP North Carolina), Marist Poll (Iowa, Texas, Michigan, Ohio), Angus Reid USA, Suffolk University/USA TODAY Network Ohio, Barbara Jordan Public Policy Research and Survey Center (Texas Southern University), Texas Public Opinion Research, McLaughlin & Associates (Great Lakes Conservative Fund), Catawba College/YouGov (North Carolina), Verasight/The Argument, Fabrizio Ward/Impact Research (AARP Maine), High Point University (HPU Poll 127), Mitchell Research & Communications, Maine People's Resource Center, GBAO Strategies (Kansas memo via Politico), Saint Anselm College Survey Center/AARP New Hampshire (NH Institute of Politics), Wedgewood Polls (Georgia, Maine), Marist Poll (Maine), Siena/New York Times (Alaska, Iowa, Kansas, Ohio, Texas), YouGov battleground state toplines (Ohio, Michigan, New Hampshire, Texas, Kansas), Pew Research Center, Navigator Research (GBAO/Global Strategy Group), Centerline Research & Strategy, CNN/SSRS (Ohio, Iowa), co/efficient (Ohio), East Carolina University/ECU Center for Survey Research (October), The Washington Post/Schar School (Maine), UMass Lowell/YouGov (Texas), Alaska Survey Research (October), Trafalgar Group (Georgia, Texas – October), Wedgewood Polls (Michigan), Quantus Insights (Michigan), Rasmussen Reports (Maine, Minnesota, New Hampshire – October), GQR (Senate Majority PAC, Minnesota), Morning Consult/The Daily Agenda Poll (Minnesota), Emerson College Polling (Iowa – October)Rasmussen Reports (national Generic Ballot – October), TrueDot.ai (NewsNation/Decision Desk HQ), Focaldata/Financial Times (October approval), Noble Predictive Insights/The Center Square Voters' Voice Poll, SurveyUSA (WRAL/WSOC-TV, North Carolina), Trafalgar Group (North Carolina – October), Carolina Forward/Change Research (October), InsiderAdvantage (Michigan – October), Suffolk University Political Research Center (Maine, Iowa – October), ReconMR/Siena Research Institute (Texas – October), Quantus Insights (Texas – October), Marist Poll (Texas – October), Fox News/Beacon Research and Shaw & Company Research (national Generic Ballot and approval – October), YouGov/Economist (October 10–12), AP-NORC (October 8–12 approval), Morning Consult (October 9–11 approval), ActiVote (national Generic Ballot, Texas Senate), Marist Poll (Iowa – October), YouGov (Iowa Senate – October), UT/Texas Politics Project (September–October)"
   },
   "topics": [
     { "value": "Generic Ballot",        "label": "Generic Ballot",        "icon": "🗳️" },
