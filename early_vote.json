@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_updated": "2026-10-23T04:27:53.344749+00:00",
+    "last_updated": "2026-10-23T04:56:50.315796+00:00",
     "sources": [
       "civicAPI.org (free, aggregated from state/county election offices)",
-      "Florida Division of Elections - daily county early-voting activity reports (FL only, congressional-district level)"
+      "Florida Division of Elections - daily county early-voting activity reports (FL only, congressional-district level; refreshed manually in a supervised session, not by this daily cron - see list_fl_county_files's docstring)"
     ],
     "election_date": "2026-11-03"
   },
@@ -2355,21 +2355,21 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 162354,
+          "total": 162353,
           "by_party": {
             "Democratic": 64835,
             "Republican": 30346,
-            "No Party Affiliation": 66483,
+            "No Party Affiliation": 66482,
             "Libertarian": 559,
             "Green": 131
           }
         },
         "returned": {
-          "total": 51097,
+          "total": 51096,
           "by_party": {
             "Democratic": 21742,
             "Republican": 9042,
-            "No Party Affiliation": 20172,
+            "No Party Affiliation": 20171,
             "Libertarian": 119,
             "Green": 22
           }
