@@ -383,7 +383,256 @@
         }
       },
       "counties": {},
-      "districts": {}
+      "districts": {
+        "FL-3": {
+          "total": 9813,
+          "by_party": {
+            "Democratic": 5177,
+            "Republican": 3060,
+            "Independent": 152,
+            "No Party Affiliation": 1364,
+            "Other": 60
+          }
+        },
+        "FL-2": {
+          "total": 17662,
+          "by_party": {
+            "Republican": 7890,
+            "Independent": 290,
+            "Democratic": 7370,
+            "No Party Affiliation": 2019,
+            "Other": 93
+          }
+        },
+        "FL-8": {
+          "total": 30044,
+          "by_party": {
+            "No Party Affiliation": 4992,
+            "Republican": 14596,
+            "Democratic": 9649,
+            "Other": 133,
+            "Independent": 674
+          }
+        },
+        "FL-25": {
+          "total": 12738,
+          "by_party": {
+            "Democratic": 4928,
+            "No Party Affiliation": 2836,
+            "Republican": 4622,
+            "Independent": 300,
+            "Other": 52
+          }
+        },
+        "FL-20": {
+          "total": 20785,
+          "by_party": {
+            "Democratic": 13738,
+            "No Party Affiliation": 3363,
+            "Republican": 3258,
+            "Independent": 373,
+            "Other": 53
+          }
+        },
+        "FL-24": {
+          "total": 14397,
+          "by_party": {
+            "Democratic": 9916,
+            "No Party Affiliation": 2263,
+            "Republican": 1963,
+            "Independent": 215,
+            "Other": 40
+          }
+        },
+        "FL-22": {
+          "total": 10057,
+          "by_party": {
+            "Democratic": 4396,
+            "No Party Affiliation": 2187,
+            "Republican": 3265,
+            "Independent": 175,
+            "Other": 34
+          }
+        },
+        "FL-26": {
+          "total": 16217,
+          "by_party": {
+            "Republican": 6482,
+            "Democratic": 5987,
+            "No Party Affiliation": 3456,
+            "Independent": 248,
+            "Other": 44
+          }
+        },
+        "FL-17": {
+          "total": 15544,
+          "by_party": {
+            "Democratic": 3474,
+            "Republican": 9109,
+            "No Party Affiliation": 2505,
+            "Independent": 368,
+            "Other": 88
+          }
+        },
+        "FL-28": {
+          "total": 17025,
+          "by_party": {
+            "Democratic": 5503,
+            "Republican": 7589,
+            "No Party Affiliation": 3579,
+            "Independent": 296,
+            "Other": 58
+          }
+        },
+        "FL-27": {
+          "total": 16896,
+          "by_party": {
+            "Democratic": 5689,
+            "No Party Affiliation": 3830,
+            "Republican": 7091,
+            "Independent": 245,
+            "Other": 41
+          }
+        },
+        "FL-4": {
+          "total": 12675,
+          "by_party": {
+            "Democratic": 7715,
+            "No Party Affiliation": 1238,
+            "Republican": 3440,
+            "Independent": 201,
+            "Other": 81
+          }
+        },
+        "FL-5": {
+          "total": 16445,
+          "by_party": {
+            "No Party Affiliation": 2341,
+            "Independent": 290,
+            "Republican": 7387,
+            "Democratic": 6355,
+            "Other": 72
+          }
+        },
+        "FL-1": {
+          "total": 17900,
+          "by_party": {
+            "No Party Affiliation": 2061,
+            "Republican": 10571,
+            "Democratic": 4909,
+            "Other": 91,
+            "Independent": 268
+          }
+        },
+        "FL-6": {
+          "total": 12069,
+          "by_party": {
+            "Democratic": 3006,
+            "No Party Affiliation": 1767,
+            "Republican": 7023,
+            "Independent": 204,
+            "Other": 69
+          }
+        },
+        "FL-14": {
+          "total": 22515,
+          "by_party": {
+            "Republican": 9856,
+            "Democratic": 8255,
+            "No Party Affiliation": 3841,
+            "Independent": 446,
+            "Other": 117
+          }
+        },
+        "FL-12": {
+          "total": 10101,
+          "by_party": {
+            "No Party Affiliation": 1769,
+            "Republican": 3870,
+            "Democratic": 4259,
+            "Independent": 159,
+            "Other": 44
+          }
+        },
+        "FL-15": {
+          "total": 5716,
+          "by_party": {
+            "No Party Affiliation": 996,
+            "Democratic": 3097,
+            "Republican": 1491,
+            "Independent": 96,
+            "Other": 36
+          }
+        },
+        "FL-0": {
+          "total": 2,
+          "by_party": {
+            "Independent": 1,
+            "Democratic": 1
+          }
+        },
+        "FL-9": {
+          "total": 11205,
+          "by_party": {
+            "Republican": 5584,
+            "No Party Affiliation": 1945,
+            "Democratic": 3355,
+            "Independent": 255,
+            "Other": 66
+          }
+        },
+        "FL-11": {
+          "total": 24076,
+          "by_party": {
+            "Republican": 9647,
+            "Democratic": 9341,
+            "No Party Affiliation": 4477,
+            "Independent": 472,
+            "Other": 139
+          }
+        },
+        "FL-19": {
+          "total": 17751,
+          "by_party": {
+            "Republican": 10071,
+            "No Party Affiliation": 3213,
+            "Democratic": 3990,
+            "Independent": 394,
+            "Other": 83
+          }
+        },
+        "FL-16": {
+          "total": 13073,
+          "by_party": {
+            "Republican": 7064,
+            "No Party Affiliation": 2116,
+            "Democratic": 3543,
+            "Independent": 294,
+            "Other": 56
+          }
+        },
+        "FL-21": {
+          "total": 3881,
+          "by_party": {
+            "Republican": 2374,
+            "Democratic": 876,
+            "Independent": 118,
+            "No Party Affiliation": 497,
+            "Other": 16
+          }
+        },
+        "FL-10": {
+          "total": 18779,
+          "by_party": {
+            "No Party Affiliation": 3235,
+            "Republican": 4285,
+            "Democratic": 10845,
+            "Independent": 267,
+            "Other": 147
+          }
+        }
+      },
+      "districts_updated_at": "2026-10-22T20:50:00+00:00"
     },
     "GA": {
       "has_party_registration": false,
