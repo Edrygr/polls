@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-25T18:01:22.617093+00:00",
+    "last_updated": "2026-10-26T18:03:01.600204+00:00",
     "sources": [
       "civicAPI.org (free, aggregated from state/county election offices)",
       "Florida Division of Elections - daily county early-voting activity reports (FL only, congressional-district level; refreshed manually in a supervised session, not by this daily cron - see list_fl_county_files's docstring)"
@@ -27,19 +27,19 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 3273543,
+          "total": 3277171,
           "by_party": {
-            "Democratic": 1049991,
-            "Republican": 1155939,
-            "Other": 1067613
+            "Democratic": 1050740,
+            "Republican": 1157791,
+            "Other": 1068640
           }
         },
         "returned": {
-          "total": 884474,
+          "total": 937650,
           "by_party": {
-            "Democratic": 342175,
-            "Republican": 339414,
-            "Other": 202885
+            "Democratic": 360335,
+            "Republican": 361264,
+            "Other": 216051
           }
         },
         "inperson": {
@@ -53,27 +53,27 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 11064,
+          "total": 11150,
           "by_party": {
-            "Democratic": 1230,
-            "Republican": 954,
-            "Other": 8880
+            "Democratic": 1239,
+            "Republican": 957,
+            "Other": 8954
           }
         },
         "returned": {
-          "total": 5274,
+          "total": 5339,
           "by_party": {
-            "Democratic": 601,
-            "Republican": 492,
-            "Other": 4181
+            "Democratic": 611,
+            "Republican": 493,
+            "Other": 4235
           }
         },
         "inperson": {
-          "total": 250824,
+          "total": 274368,
           "by_party": {
-            "Democratic": 17255,
-            "Republican": 22068,
-            "Other": 211501
+            "Democratic": 18915,
+            "Republican": 23992,
+            "Other": 231461
           }
         }
       },
@@ -83,30 +83,30 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 23443789
+          "total": 23444011
         },
         "returned": {
-          "total": 3000487
+          "total": 3209626
         },
         "inperson": {
-          "total": 6909
+          "total": 39748
         }
       },
       "counties": {
         "Alameda": {
-          "returned_total": 114170
+          "returned_total": 114727
         },
         "Alpine": {
           "returned_total": 183
         },
         "Amador": {
-          "returned_total": 6199
+          "returned_total": 6201
         },
         "Butte": {
           "returned_total": 21267
         },
         "Calaveras": {
-          "returned_total": 5803
+          "returned_total": 5952
         },
         "Colusa": {
           "returned_total": 1061
@@ -121,13 +121,13 @@
           "returned_total": 26106
         },
         "Fresno": {
-          "returned_total": 63594
+          "returned_total": 63031
         },
         "Glenn": {
           "returned_total": 1931
         },
         "Humboldt": {
-          "returned_total": 12112
+          "returned_total": 15089
         },
         "Imperial": {
           "returned_total": 6980
@@ -142,19 +142,19 @@
           "returned_total": 7750
         },
         "Lake": {
-          "returned_total": 4799
+          "returned_total": 5896
         },
         "Lassen": {
-          "returned_total": 2328
+          "returned_total": 2501
         },
         "Los Angeles": {
-          "returned_total": 539383
+          "returned_total": 630285
         },
         "Madera": {
-          "returned_total": 10574
+          "returned_total": 12184
         },
         "Marin": {
-          "returned_total": 30950
+          "returned_total": 33189
         },
         "Mariposa": {
           "returned_total": 2395
@@ -163,7 +163,7 @@
           "returned_total": 10562
         },
         "Merced": {
-          "returned_total": 13108
+          "returned_total": 16420
         },
         "Modoc": {
           "returned_total": 842
@@ -172,58 +172,58 @@
           "returned_total": 1053
         },
         "Monterey": {
-          "returned_total": 36133
+          "returned_total": 36114
         },
         "Napa": {
-          "returned_total": 13329
+          "returned_total": 14448
         },
         "Nevada": {
-          "returned_total": 10689
+          "returned_total": 14195
         },
         "Orange": {
-          "returned_total": 303402
+          "returned_total": 297142
         },
         "Placer": {
-          "returned_total": 49367
+          "returned_total": 53595
         },
         "Plumas": {
           "returned_total": 3408
         },
         "Riverside": {
-          "returned_total": 188148
+          "returned_total": 203566
         },
         "Sacramento": {
-          "returned_total": 127427
+          "returned_total": 141777
         },
         "San Benito": {
-          "returned_total": 4774
+          "returned_total": 4928
         },
         "San Bernardino": {
-          "returned_total": 132022
+          "returned_total": 140390
         },
         "San Diego": {
-          "returned_total": 385100
+          "returned_total": 397794
         },
         "San Francisco": {
-          "returned_total": 62789
+          "returned_total": 68247
         },
         "San Joaquin": {
           "returned_total": 49340
         },
         "San Luis Obispo": {
-          "returned_total": 38729
+          "returned_total": 40057
         },
         "San Mateo": {
-          "returned_total": 68630
+          "returned_total": 68297
         },
         "Santa Barbara": {
-          "returned_total": 40820
+          "returned_total": 42184
         },
         "Santa Clara": {
-          "returned_total": 130382
+          "returned_total": 156394
         },
         "Santa Cruz": {
-          "returned_total": 25264
+          "returned_total": 27648
         },
         "Shasta": {
           "returned_total": 13241
@@ -235,13 +235,13 @@
           "returned_total": 5234
         },
         "Solano": {
-          "returned_total": 33111
+          "returned_total": 33765
         },
         "Sonoma": {
-          "returned_total": 58928
+          "returned_total": 61633
         },
         "Stanislaus": {
-          "returned_total": 37272
+          "returned_total": 37319
         },
         "Sutter": {
           "returned_total": 7303
@@ -256,13 +256,13 @@
           "returned_total": 22670
         },
         "Tuolumne": {
-          "returned_total": 4474
+          "returned_total": 5994
         },
         "Ventura": {
-          "returned_total": 71553
+          "returned_total": 82746
         },
         "Yolo": {
-          "returned_total": 15812
+          "returned_total": 16606
         },
         "Yuba": {
           "returned_total": 4483
@@ -303,19 +303,19 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 62624,
+          "total": 62660,
           "by_party": {
-            "Democratic": 32718,
-            "Republican": 10772,
-            "Other": 19134
+            "Democratic": 32736,
+            "Republican": 10776,
+            "Other": 19148
           }
         },
         "returned": {
-          "total": 32404,
+          "total": 32712,
           "by_party": {
-            "Democratic": 16811,
-            "Republican": 6036,
-            "Other": 9557
+            "Democratic": 16963,
+            "Republican": 6081,
+            "Other": 9668
           }
         },
         "inperson": {
@@ -355,30 +355,30 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 1099503,
+          "total": 1074453,
           "by_party": {
-            "Democratic": 454936,
-            "Republican": 360418,
-            "No Party Affiliation": 253467,
-            "Other": 30682
+            "Democratic": 441862,
+            "Republican": 353559,
+            "No Party Affiliation": 248909,
+            "Other": 30123
           }
         },
         "returned": {
-          "total": 1395948,
+          "total": 1452382,
           "by_party": {
-            "Democratic": 599563,
-            "Republican": 498925,
-            "No Party Affiliation": 263768,
-            "Other": 33692
+            "Democratic": 624182,
+            "Republican": 518293,
+            "No Party Affiliation": 274730,
+            "Other": 35177
           }
         },
         "inperson": {
-          "total": 1308525,
+          "total": 1531495,
           "by_party": {
-            "Democratic": 475172,
-            "Republican": 573684,
-            "No Party Affiliation": 227433,
-            "Other": 32236
+            "Democratic": 552795,
+            "Republican": 673386,
+            "No Party Affiliation": 267641,
+            "Other": 37673
           }
         }
       },
@@ -638,13 +638,13 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 157545
+          "total": 157598
         },
         "returned": {
-          "total": 81590
+          "total": 82620
         },
         "inperson": {
-          "total": 1669567
+          "total": 1697619
         }
       },
       "counties": {
@@ -706,7 +706,7 @@
           "returned_total": 84
         },
         "Camden": {
-          "returned_total": 573
+          "returned_total": 601
         },
         "Candler": {
           "returned_total": 44
@@ -721,7 +721,7 @@
           "returned_total": 59
         },
         "Chatham": {
-          "returned_total": 2687
+          "returned_total": 2833
         },
         "Chattahoochee": {
           "returned_total": 13
@@ -733,19 +733,19 @@
           "returned_total": 3394
         },
         "Clarke": {
-          "returned_total": 923
+          "returned_total": 924
         },
         "Clay": {
           "returned_total": 39
         },
         "Clayton": {
-          "returned_total": 1548
+          "returned_total": 1555
         },
         "Clinch": {
           "returned_total": 25
         },
         "Cobb": {
-          "returned_total": 5025
+          "returned_total": 5175
         },
         "Coffee": {
           "returned_total": 102
@@ -778,7 +778,7 @@
           "returned_total": 202
         },
         "DeKalb": {
-          "returned_total": 4981
+          "returned_total": 5009
         },
         "Dodge": {
           "returned_total": 142
@@ -814,10 +814,10 @@
           "returned_total": 415
         },
         "Fayette": {
-          "returned_total": 1258
+          "returned_total": 1260
         },
         "Floyd": {
-          "returned_total": 648
+          "returned_total": 652
         },
         "Forsyth": {
           "returned_total": 2360
@@ -826,7 +826,7 @@
           "returned_total": 154
         },
         "Fulton": {
-          "returned_total": 7204
+          "returned_total": 7324
         },
         "Gilmer": {
           "returned_total": 425
@@ -847,7 +847,7 @@
           "returned_total": 309
         },
         "Gwinnett": {
-          "returned_total": 4686
+          "returned_total": 5215
         },
         "Habersham": {
           "returned_total": 330
@@ -964,7 +964,7 @@
           "returned_total": 150
         },
         "Muscogee": {
-          "returned_total": 2180
+          "returned_total": 2195
         },
         "Newton": {
           "returned_total": 628
@@ -1131,13 +1131,13 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 726848
+          "total": 727241
         },
         "returned": {
-          "total": 112226
+          "total": 123873
         },
         "inperson": {
-          "total": 1012
+          "total": 1245
         }
       },
       "counties": {
@@ -1145,13 +1145,13 @@
           "returned_total": 23179
         },
         "Honolulu": {
-          "returned_total": 67765
+          "returned_total": 76527
         },
         "Kaua'i": {
-          "returned_total": 8041
+          "returned_total": 8976
         },
         "Maui": {
-          "returned_total": 13241
+          "returned_total": 15191
         }
       }
     },
@@ -1186,10 +1186,10 @@
           "total": 1138809
         },
         "returned": {
-          "total": 443833
+          "total": 444861
         },
         "inperson": {
-          "total": 341862
+          "total": 344979
         }
       },
       "counties": {
@@ -1356,7 +1356,7 @@
           "returned_total": 1043
         },
         "Lake": {
-          "returned_total": 34395
+          "returned_total": 35423
         },
         "LaSalle": {
           "returned_total": 5945
@@ -1523,10 +1523,10 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 348356
+          "total": 426777
         },
         "returned": {
-          "total": 292616
+          "total": 374767
         },
         "inperson": {
           "total": 0
@@ -1534,280 +1534,280 @@
       },
       "counties": {
         "Adams": {
-          "returned_total": 1708
+          "returned_total": 2011
         },
         "Allen": {
-          "returned_total": 11516
+          "returned_total": 13573
         },
         "Bartholomew": {
-          "returned_total": 5299
+          "returned_total": 6280
         },
         "Benton": {
-          "returned_total": 201
+          "returned_total": 230
         },
         "Blackford": {
-          "returned_total": 717
+          "returned_total": 817
         },
         "Boone": {
-          "returned_total": 3242
+          "returned_total": 5718
         },
         "Brown": {
-          "returned_total": 1481
+          "returned_total": 1779
         },
         "Carroll": {
-          "returned_total": 649
+          "returned_total": 824
         },
         "Cass": {
-          "returned_total": 2071
+          "returned_total": 2437
         },
         "Clark": {
-          "returned_total": 4208
+          "returned_total": 5153
         },
         "Clay": {
-          "returned_total": 904
+          "returned_total": 1124
         },
         "Clinton": {
-          "returned_total": 1405
+          "returned_total": 1743
         },
         "Crawford": {
-          "returned_total": 330
+          "returned_total": 395
         },
         "Daviess": {
-          "returned_total": 863
+          "returned_total": 1059
         },
         "Dearborn": {
-          "returned_total": 1599
+          "returned_total": 2000
         },
         "Decatur": {
-          "returned_total": 851
+          "returned_total": 1038
         },
         "Dekalb": {
-          "returned_total": 1798
+          "returned_total": 2135
         },
         "Delaware": {
-          "returned_total": 4931
+          "returned_total": 5803
         },
         "Dubois": {
-          "returned_total": 3183
+          "returned_total": 3805
         },
         "Elkhart": {
-          "returned_total": 6981
+          "returned_total": 8185
         },
         "Fayette": {
-          "returned_total": 1018
+          "returned_total": 1124
         },
         "Floyd": {
-          "returned_total": 6689
+          "returned_total": 8252
         },
         "Fountain": {
-          "returned_total": 344
+          "returned_total": 510
         },
         "Franklin": {
-          "returned_total": 914
+          "returned_total": 1152
         },
         "Fulton": {
-          "returned_total": 927
+          "returned_total": 1121
         },
         "Gibson": {
-          "returned_total": 1045
+          "returned_total": 1320
         },
         "Grant": {
-          "returned_total": 2693
+          "returned_total": 3237
         },
         "Greene": {
-          "returned_total": 1211
+          "returned_total": 1469
         },
         "Hamilton": {
-          "returned_total": 29217
+          "returned_total": 41553
         },
         "Hancock": {
-          "returned_total": 4731
+          "returned_total": 6613
         },
         "Harrison": {
-          "returned_total": 1710
+          "returned_total": 2205
         },
         "Hendricks": {
-          "returned_total": 9797
+          "returned_total": 13380
         },
         "Henry": {
-          "returned_total": 1433
+          "returned_total": 1752
         },
         "Howard": {
-          "returned_total": 3545
+          "returned_total": 4235
         },
         "Huntington": {
-          "returned_total": 1764
+          "returned_total": 2252
         },
         "Jackson": {
-          "returned_total": 2276
+          "returned_total": 2840
         },
         "Jasper": {
-          "returned_total": 1341
+          "returned_total": 1714
         },
         "Jay": {
-          "returned_total": 996
+          "returned_total": 1225
         },
         "Jefferson": {
-          "returned_total": 1533
+          "returned_total": 1755
         },
         "Jennings": {
-          "returned_total": 776
+          "returned_total": 953
         },
         "Johnson": {
-          "returned_total": 5314
+          "returned_total": 6172
         },
         "Knox": {
-          "returned_total": 1546
+          "returned_total": 1950
         },
         "Kosciusko": {
-          "returned_total": 2215
+          "returned_total": 2718
         },
         "Lagrange": {
-          "returned_total": 635
+          "returned_total": 768
         },
         "Lake": {
-          "returned_total": 25317
+          "returned_total": 33404
         },
         "Laporte": {
-          "returned_total": 6268
+          "returned_total": 7751
         },
         "Lawrence": {
-          "returned_total": 2555
+          "returned_total": 3241
         },
         "Madison": {
-          "returned_total": 4026
+          "returned_total": 4699
         },
         "Marion": {
-          "returned_total": 15309
+          "returned_total": 25564
         },
         "Marshall": {
-          "returned_total": 1899
+          "returned_total": 2080
         },
         "Martin": {
-          "returned_total": 467
+          "returned_total": 593
         },
         "Miami": {
-          "returned_total": 1855
+          "returned_total": 2247
         },
         "Monroe": {
-          "returned_total": 9053
+          "returned_total": 10889
         },
         "Montgomery": {
-          "returned_total": 1699
+          "returned_total": 2169
         },
         "Morgan": {
-          "returned_total": 3330
+          "returned_total": 4497
         },
         "Newton": {
-          "returned_total": 276
+          "returned_total": 342
         },
         "Noble": {
-          "returned_total": 1496
+          "returned_total": 1815
         },
         "Ohio": {
-          "returned_total": 233
+          "returned_total": 344
         },
         "Orange": {
-          "returned_total": 585
+          "returned_total": 689
         },
         "Owen": {
-          "returned_total": 1117
+          "returned_total": 1379
         },
         "Parke": {
-          "returned_total": 467
+          "returned_total": 558
         },
         "Perry": {
-          "returned_total": 2014
+          "returned_total": 2293
         },
         "Pike": {
-          "returned_total": 681
+          "returned_total": 753
         },
         "Porter": {
-          "returned_total": 13087
+          "returned_total": 15752
         },
         "Posey": {
-          "returned_total": 979
+          "returned_total": 1210
         },
         "Pulaski": {
-          "returned_total": 612
+          "returned_total": 749
         },
         "Putnam": {
-          "returned_total": 1529
+          "returned_total": 1896
         },
         "Randolph": {
-          "returned_total": 801
+          "returned_total": 969
         },
         "Ripley": {
-          "returned_total": 867
+          "returned_total": 1055
         },
         "Rush": {
-          "returned_total": 516
+          "returned_total": 637
         },
         "Scott": {
-          "returned_total": 1126
+          "returned_total": 1338
         },
         "Shelby": {
-          "returned_total": 1734
+          "returned_total": 2108
         },
         "Spencer": {
-          "returned_total": 892
+          "returned_total": 1048
         },
         "St. Joseph": {
-          "returned_total": 13153
+          "returned_total": 16059
         },
         "Starke": {
-          "returned_total": 929
+          "returned_total": 1207
         },
         "Steuben": {
-          "returned_total": 1881
+          "returned_total": 2263
         },
         "Sullivan": {
-          "returned_total": 780
+          "returned_total": 961
         },
         "Switzerland": {
           "returned_total": 512
         },
         "Tippecanoe": {
-          "returned_total": 8186
+          "returned_total": 9224
         },
         "Tipton": {
-          "returned_total": 1077
+          "returned_total": 1253
         },
         "Union": {
-          "returned_total": 260
+          "returned_total": 327
         },
         "Vanderburgh": {
-          "returned_total": 10164
+          "returned_total": 13199
         },
         "Vermillion": {
-          "returned_total": 838
+          "returned_total": 1002
         },
         "Vigo": {
-          "returned_total": 5963
+          "returned_total": 7215
         },
         "Wabash": {
-          "returned_total": 1234
+          "returned_total": 1534
         },
         "Warren": {
-          "returned_total": 297
+          "returned_total": 371
         },
         "Warrick": {
-          "returned_total": 2238
+          "returned_total": 3159
         },
         "Washington": {
-          "returned_total": 1097
+          "returned_total": 1286
         },
         "Wayne": {
-          "returned_total": 1585
+          "returned_total": 1941
         },
         "Wells": {
-          "returned_total": 1177
+          "returned_total": 1417
         },
         "White": {
-          "returned_total": 1165
+          "returned_total": 1277
         },
         "Whitley": {
-          "returned_total": 1683
+          "returned_total": 2112
         }
       }
     },
@@ -1815,27 +1815,27 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 160734,
+          "total": 160961,
           "by_party": {
-            "Democratic": 74432,
-            "Republican": 60280,
-            "Other": 26022
+            "Democratic": 74462,
+            "Republican": 60421,
+            "Other": 26078
           }
         },
         "returned": {
-          "total": 71145,
+          "total": 91467,
           "by_party": {
-            "Democratic": 37096,
-            "Republican": 24367,
-            "Other": 9682
+            "Democratic": 46875,
+            "Republican": 31811,
+            "Other": 12781
           }
         },
         "inperson": {
-          "total": 136629,
+          "total": 174243,
           "by_party": {
-            "Democratic": 68648,
-            "Republican": 42155,
-            "Other": 25826
+            "Democratic": 87491,
+            "Republican": 52034,
+            "Other": 34718
           }
         }
       },
@@ -1845,27 +1845,27 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 100780,
+          "total": 103679,
           "by_party": {
-            "Democratic": 47547,
-            "Republican": 36572,
-            "Other": 16661
+            "Democratic": 48623,
+            "Republican": 37727,
+            "Other": 17329
           }
         },
         "returned": {
-          "total": 32141,
+          "total": 42317,
           "by_party": {
-            "Democratic": 16996,
-            "Republican": 10959,
-            "Other": 4186
+            "Democratic": 21876,
+            "Republican": 14658,
+            "Other": 5783
           }
         },
         "inperson": {
-          "total": 121933,
+          "total": 161838,
           "by_party": {
-            "Democratic": 56507,
-            "Republican": 49294,
-            "Other": 16132
+            "Democratic": 73822,
+            "Republican": 65724,
+            "Other": 22292
           }
         }
       },
@@ -1875,19 +1875,19 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 67047,
+          "total": 67058,
           "by_party": {
-            "Democratic": 37043,
-            "Republican": 22727,
-            "Unspecified": 7277
+            "Democratic": 37039,
+            "Republican": 22726,
+            "Unspecified": 7293
           }
         },
         "returned": {
-          "total": 30741,
+          "total": 31303,
           "by_party": {
-            "Democratic": 17126,
-            "Republican": 11049,
-            "Unspecified": 2566
+            "Democratic": 17401,
+            "Republican": 11290,
+            "Unspecified": 2612
           }
         },
         "inperson": {
@@ -1938,17 +1938,17 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 646064,
+          "total": 647237,
           "by_party": {
-            "Unspecified": 646064
+            "Unspecified": 647237
           }
         },
         "returned": {
-          "total": 285204,
+          "total": 290990,
           "by_party": {
-            "Democratic": 197774,
-            "Republican": 45162,
-            "Other": 42268
+            "Democratic": 202001,
+            "Republican": 45853,
+            "Other": 43136
           }
         },
         "inperson": {
@@ -2258,27 +2258,27 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 236932,
+          "total": 241702,
           "by_party": {
-            "Democratic": 86251,
-            "Republican": 108970,
-            "Other": 41711
+            "Democratic": 87815,
+            "Republican": 111128,
+            "Other": 42759
           }
         },
         "returned": {
-          "total": 116058,
+          "total": 127818,
           "by_party": {
-            "Democratic": 49357,
-            "Republican": 47751,
-            "Other": 18950
+            "Democratic": 53929,
+            "Republican": 52849,
+            "Other": 21040
           }
         },
         "inperson": {
-          "total": 20375,
+          "total": 24097,
           "by_party": {
-            "Democratic": 7099,
-            "Republican": 9502,
-            "Other": 3774
+            "Democratic": 8348,
+            "Republican": 11203,
+            "Other": 4546
           }
         }
       },
@@ -2288,27 +2288,27 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 2087993,
+          "total": 2088030,
           "by_party": {
-            "Democratic": 583323,
-            "Republican": 563632,
-            "Other": 941038
+            "Democratic": 583433,
+            "Republican": 563630,
+            "Other": 940967
           }
         },
         "returned": {
-          "total": 229774,
+          "total": 238124,
           "by_party": {
-            "Democratic": 95255,
-            "Republican": 71798,
-            "Other": 62721
+            "Democratic": 99358,
+            "Republican": 73751,
+            "Other": 65015
           }
         },
         "inperson": {
-          "total": 127832,
+          "total": 151526,
           "by_party": {
-            "Democratic": 46976,
-            "Republican": 53947,
-            "Other": 26909
+            "Democratic": 56497,
+            "Republican": 62563,
+            "Other": 32466
           }
         }
       },
@@ -2318,24 +2318,28 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 920191,
+          "total": 922398,
           "by_party": {
-            "Democratic": 531188,
-            "Republican": 175130,
-            "Other": 213873
+            "Democratic": 532355,
+            "Republican": 175429,
+            "Other": 214614
           }
         },
         "returned": {
-          "total": 435358,
+          "total": 463416,
           "by_party": {
-            "Democratic": 285229,
-            "Republican": 82380,
-            "Other": 67749
+            "Democratic": 302699,
+            "Republican": 87067,
+            "Other": 73650
           }
         },
         "inperson": {
-          "total": 0,
-          "by_party": {}
+          "total": 62851,
+          "by_party": {
+            "Democratic": 34353,
+            "Republican": 16583,
+            "Other": 11915
+          }
         }
       },
       "counties": {}
@@ -2344,27 +2348,27 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 89131,
+          "total": 89130,
           "by_party": {
             "Democratic": 52726,
             "Republican": 19234,
-            "Other": 17171
+            "Other": 17170
           }
         },
         "returned": {
-          "total": 46951,
+          "total": 48601,
           "by_party": {
-            "Democratic": 29583,
-            "Republican": 9383,
-            "Other": 7985
+            "Democratic": 30579,
+            "Republican": 9721,
+            "Other": 8301
           }
         },
         "inperson": {
-          "total": 191781,
+          "total": 208947,
           "by_party": {
-            "Democratic": 103008,
-            "Republican": 58737,
-            "Other": 30036
+            "Democratic": 111416,
+            "Republican": 64475,
+            "Other": 33056
           }
         }
       },
@@ -2374,33 +2378,33 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 163737,
+          "total": 163809,
           "by_party": {
-            "Democratic": 65392,
-            "Republican": 30593,
-            "No Party Affiliation": 67055,
-            "Libertarian": 565,
+            "Democratic": 65425,
+            "Republican": 30604,
+            "No Party Affiliation": 67082,
+            "Libertarian": 566,
             "Green": 132
           }
         },
         "returned": {
-          "total": 59845,
+          "total": 60046,
           "by_party": {
-            "Democratic": 25146,
-            "Republican": 10759,
-            "No Party Affiliation": 23770,
+            "Democratic": 25223,
+            "Republican": 10796,
+            "No Party Affiliation": 23857,
             "Libertarian": 145,
             "Green": 25
           }
         },
         "inperson": {
-          "total": 1484828,
+          "total": 1523135,
           "by_party": {
-            "Democratic": 615327,
-            "Republican": 357149,
-            "No Party Affiliation": 508759,
-            "Libertarian": 3079,
-            "Green": 514
+            "Democratic": 633283,
+            "Republican": 362635,
+            "No Party Affiliation": 523494,
+            "Libertarian": 3189,
+            "Green": 534
           }
         }
       },
@@ -2410,99 +2414,99 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 54027
+          "total": 54585
         },
         "returned": {
-          "total": 32021
+          "total": 33194
         },
         "inperson": {
-          "total": 1973
+          "total": 2595
         }
       },
       "counties": {
         "Adams": {
-          "returned_total": 255
+          "returned_total": 275
         },
         "Barnes": {
-          "returned_total": 1285
+          "returned_total": 1302
         },
         "Benson": {
           "returned_total": 464
         },
         "Billings": {
-          "returned_total": 104
+          "returned_total": 126
         },
         "Bottineau": {
-          "returned_total": 851
+          "returned_total": 892
         },
         "Bowman": {
-          "returned_total": 86
+          "returned_total": 87
         },
         "Burke": {
           "returned_total": 278
         },
         "Burleigh": {
-          "returned_total": 2836
+          "returned_total": 2837
         },
         "Cass": {
-          "returned_total": 3297
+          "returned_total": 3303
         },
         "Cavalier": {
-          "returned_total": 561
+          "returned_total": 599
         },
         "Dickey": {
-          "returned_total": 105
+          "returned_total": 125
         },
         "Divide": {
-          "returned_total": 164
+          "returned_total": 175
         },
         "Dunn": {
-          "returned_total": 419
+          "returned_total": 425
         },
         "Eddy": {
           "returned_total": 277
         },
         "Emmons": {
-          "returned_total": 145
+          "returned_total": 162
         },
         "Foster": {
-          "returned_total": 327
+          "returned_total": 360
         },
         "Golden Valley": {
-          "returned_total": 40
+          "returned_total": 46
         },
         "Grand Forks": {
-          "returned_total": 1249
+          "returned_total": 1333
         },
         "Grant": {
-          "returned_total": 388
+          "returned_total": 402
         },
         "Griggs": {
-          "returned_total": 275
+          "returned_total": 279
         },
         "Hettinger": {
-          "returned_total": 126
+          "returned_total": 138
         },
         "Kidder": {
-          "returned_total": 352
+          "returned_total": 393
         },
         "LaMoure": {
-          "returned_total": 500
+          "returned_total": 571
         },
         "Logan": {
-          "returned_total": 309
+          "returned_total": 324
         },
         "McHenry": {
-          "returned_total": 924
+          "returned_total": 927
         },
         "McIntosh": {
-          "returned_total": 371
+          "returned_total": 417
         },
         "McKenzie": {
-          "returned_total": 498
+          "returned_total": 521
         },
         "McLean": {
-          "returned_total": 1448
+          "returned_total": 1510
         },
         "Mercer": {
           "returned_total": 1392
@@ -2511,46 +2515,46 @@
           "returned_total": 599
         },
         "Mountrail": {
-          "returned_total": 118
+          "returned_total": 125
         },
         "Nelson": {
-          "returned_total": 548
+          "returned_total": 598
         },
         "Oliver": {
-          "returned_total": 98
+          "returned_total": 106
         },
         "Pembina": {
-          "returned_total": 1015
+          "returned_total": 1016
         },
         "Pierce": {
-          "returned_total": 521
+          "returned_total": 548
         },
         "Ramsey": {
           "returned_total": 1124
         },
         "Ransom": {
-          "returned_total": 608
+          "returned_total": 665
         },
         "Renville": {
-          "returned_total": 311
+          "returned_total": 337
         },
         "Richland": {
-          "returned_total": 547
+          "returned_total": 581
         },
         "Rolette": {
-          "returned_total": 90
+          "returned_total": 96
         },
         "Sargent": {
-          "returned_total": 580
+          "returned_total": 584
         },
         "Sheridan": {
-          "returned_total": 230
+          "returned_total": 234
         },
         "Sioux": {
-          "returned_total": 111
+          "returned_total": 116
         },
         "Slope": {
-          "returned_total": 18
+          "returned_total": 22
         },
         "Stark": {
           "returned_total": 544
@@ -2559,25 +2563,25 @@
           "returned_total": 281
         },
         "Stutsman": {
-          "returned_total": 306
+          "returned_total": 335
         },
         "Towner": {
           "returned_total": 232
         },
         "Traill": {
-          "returned_total": 1132
+          "returned_total": 1251
         },
         "Walsh": {
-          "returned_total": 1503
+          "returned_total": 1527
         },
         "Ward": {
-          "returned_total": 995
+          "returned_total": 996
         },
         "Wells": {
-          "returned_total": 137
+          "returned_total": 162
         },
         "Williams": {
-          "returned_total": 1047
+          "returned_total": 1175
         }
       }
     },
@@ -2585,279 +2589,279 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 722699
+          "total": 725791
         },
         "returned": {
-          "total": 424985
+          "total": 452169
         },
         "inperson": {
-          "total": 579085
+          "total": 632136
         }
       },
       "counties": {
         "Adams": {
-          "returned_total": 631
+          "returned_total": 646
         },
         "Allen": {
-          "returned_total": 2413
+          "returned_total": 2544
         },
         "Ashland": {
-          "returned_total": 1570
+          "returned_total": 1656
         },
         "Ashtabula": {
-          "returned_total": 2817
+          "returned_total": 2952
         },
         "Athens": {
-          "returned_total": 1843
+          "returned_total": 1906
         },
         "Auglaize": {
-          "returned_total": 1403
+          "returned_total": 1460
         },
         "Belmont": {
-          "returned_total": 3389
+          "returned_total": 3544
         },
         "Brown": {
-          "returned_total": 1263
+          "returned_total": 1298
         },
         "Butler": {
           "returned_total": 9838
         },
         "Carroll": {
-          "returned_total": 859
+          "returned_total": 973
         },
         "Champaign": {
-          "returned_total": 1070
+          "returned_total": 1075
         },
         "Clark": {
-          "returned_total": 3465
+          "returned_total": 3525
         },
         "Clermont": {
-          "returned_total": 8719
+          "returned_total": 9124
         },
         "Clinton": {
-          "returned_total": 1052
+          "returned_total": 1083
         },
         "Columbiana": {
-          "returned_total": 2747
+          "returned_total": 2907
         },
         "Coshocton": {
-          "returned_total": 1136
+          "returned_total": 1193
         },
         "Crawford": {
-          "returned_total": 1422
+          "returned_total": 1485
         },
         "Cuyahoga": {
-          "returned_total": 70346
+          "returned_total": 72405
         },
         "Darke": {
-          "returned_total": 1200
+          "returned_total": 1204
         },
         "Defiance": {
-          "returned_total": 1135
+          "returned_total": 1184
         },
         "Delaware": {
-          "returned_total": 9173
+          "returned_total": 9293
         },
         "Erie": {
-          "returned_total": 3307
+          "returned_total": 3469
         },
         "Fairfield": {
-          "returned_total": 6679
+          "returned_total": 7032
         },
         "Fayette": {
-          "returned_total": 588
+          "returned_total": 595
         },
         "Franklin": {
-          "returned_total": 45375
+          "returned_total": 50401
         },
         "Fulton": {
-          "returned_total": 939
+          "returned_total": 1009
         },
         "Gallia": {
-          "returned_total": 797
+          "returned_total": 812
         },
         "Geauga": {
-          "returned_total": 5511
+          "returned_total": 5812
         },
         "Greene": {
-          "returned_total": 5015
+          "returned_total": 5098
         },
         "Guernsey": {
-          "returned_total": 1308
+          "returned_total": 1342
         },
         "Hamilton": {
-          "returned_total": 27792
+          "returned_total": 29528
         },
         "Hancock": {
-          "returned_total": 1948
+          "returned_total": 2050
         },
         "Hardin": {
-          "returned_total": 732
+          "returned_total": 761
         },
         "Harrison": {
-          "returned_total": 545
+          "returned_total": 551
         },
         "Henry": {
-          "returned_total": 667
+          "returned_total": 723
         },
         "Highland": {
           "returned_total": 871
         },
         "Hocking": {
-          "returned_total": 791
+          "returned_total": 818
         },
         "Holmes": {
-          "returned_total": 726
+          "returned_total": 767
         },
         "Huron": {
-          "returned_total": 1706
+          "returned_total": 1782
         },
         "Jackson": {
-          "returned_total": 819
+          "returned_total": 847
         },
         "Jefferson": {
-          "returned_total": 2836
+          "returned_total": 2912
         },
         "Knox": {
           "returned_total": 2026
         },
         "Lake": {
-          "returned_total": 11768
+          "returned_total": 12382
         },
         "Lawrence": {
           "returned_total": 1243
         },
         "Licking": {
-          "returned_total": 7647
+          "returned_total": 8009
         },
         "Logan": {
-          "returned_total": 1365
+          "returned_total": 1401
         },
         "Lorain": {
-          "returned_total": 13913
+          "returned_total": 14217
         },
         "Lucas": {
-          "returned_total": 9836
+          "returned_total": 9840
         },
         "Madison": {
-          "returned_total": 1498
+          "returned_total": 1564
         },
         "Mahoning": {
-          "returned_total": 9612
+          "returned_total": 10619
         },
         "Marion": {
-          "returned_total": 1702
+          "returned_total": 1833
         },
         "Medina": {
-          "returned_total": 7228
+          "returned_total": 7701
         },
         "Meigs": {
-          "returned_total": 571
+          "returned_total": 579
         },
         "Mercer": {
-          "returned_total": 1343
+          "returned_total": 1400
         },
         "Miami": {
-          "returned_total": 3232
+          "returned_total": 3549
         },
         "Monroe": {
-          "returned_total": 447
+          "returned_total": 487
         },
         "Montgomery": {
-          "returned_total": 10541
+          "returned_total": 16957
         },
         "Morgan": {
-          "returned_total": 474
+          "returned_total": 484
         },
         "Morrow": {
-          "returned_total": 901
+          "returned_total": 956
         },
         "Muskingum": {
-          "returned_total": 2520
+          "returned_total": 2611
         },
         "Noble": {
-          "returned_total": 396
+          "returned_total": 401
         },
         "Ottawa": {
-          "returned_total": 1685
+          "returned_total": 1823
         },
         "Paulding": {
           "returned_total": 488
         },
         "Perry": {
-          "returned_total": 1061
+          "returned_total": 1125
         },
         "Pickaway": {
-          "returned_total": 1447
+          "returned_total": 1504
         },
         "Pike": {
-          "returned_total": 800
+          "returned_total": 845
         },
         "Portage": {
-          "returned_total": 6364
+          "returned_total": 6372
         },
         "Preble": {
-          "returned_total": 981
+          "returned_total": 1038
         },
         "Putnam": {
-          "returned_total": 973
+          "returned_total": 1005
         },
         "Richland": {
-          "returned_total": 3432
+          "returned_total": 3502
         },
         "Ross": {
           "returned_total": 2010
         },
         "Sandusky": {
-          "returned_total": 1479
+          "returned_total": 1519
         },
         "Scioto": {
-          "returned_total": 1668
+          "returned_total": 1689
         },
         "Seneca": {
-          "returned_total": 1249
+          "returned_total": 1284
         },
         "Shelby": {
-          "returned_total": 1178
+          "returned_total": 1228
         },
         "Stark": {
-          "returned_total": 15341
+          "returned_total": 15974
         },
         "Summit": {
-          "returned_total": 24824
+          "returned_total": 26201
         },
         "Trumbull": {
-          "returned_total": 7250
+          "returned_total": 8597
         },
         "Tuscarawas": {
           "returned_total": 3627
         },
         "Union": {
-          "returned_total": 2190
+          "returned_total": 2236
         },
         "Van Wert": {
-          "returned_total": 652
+          "returned_total": 665
         },
         "Vinton": {
-          "returned_total": 382
+          "returned_total": 414
         },
         "Warren": {
-          "returned_total": 10815
+          "returned_total": 11343
         },
         "Washington": {
-          "returned_total": 1741
+          "returned_total": 1904
         },
         "Wayne": {
-          "returned_total": 3348
+          "returned_total": 3595
         },
         "Williams": {
-          "returned_total": 720
+          "returned_total": 758
         },
         "Wood": {
-          "returned_total": 4022
+          "returned_total": 4091
         },
         "Wyandot": {
-          "returned_total": 552
+          "returned_total": 598
         }
       }
     },
@@ -2897,41 +2901,11 @@
           "by_party": {}
         },
         "returned": {
-          "total": 489294,
+          "total": 517544,
           "by_party": {
-            "Democratic": 225708,
-            "Republican": 144038,
-            "Other": 119548
-          }
-        },
-        "inperson": {
-          "total": 0,
-          "by_party": {}
-        }
-      },
-      "counties": {}
-    },
-    "PA": {
-      "has_party_registration": true,
-      "statewide": {
-        "requested": {
-          "total": 1251610,
-          "by_party": {
-            "Democratic": 811036,
-            "Republican": 303933,
-            "Libertarian": 2965,
-            "Green": 1350,
-            "Other/Independent": 132326
-          }
-        },
-        "returned": {
-          "total": 720664,
-          "by_party": {
-            "Democratic": 483009,
-            "Republican": 173361,
-            "Libertarian": 1193,
-            "Green": 552,
-            "Other/Independent": 62549
+            "Democratic": 236431,
+            "Republican": 154366,
+            "Other": 126747
           }
         },
         "inperson": {
@@ -3165,19 +3139,19 @@
           }
         },
         "returned": {
-          "total": 191989,
+          "total": 193151,
           "by_party": {
-            "Democratic": 42397,
-            "Republican": 99745,
-            "Other": 49847
+            "Democratic": 42740,
+            "Republican": 100223,
+            "Other": 50188
           }
         },
         "inperson": {
           "total": 1248,
           "by_party": {
-            "Democratic": 440,
-            "Republican": 368,
-            "Other": 440
+            "Democratic": 439,
+            "Republican": 366,
+            "Other": 443
           }
         }
       },
@@ -3187,10 +3161,10 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 457957
+          "total": 457959
         },
         "returned": {
-          "total": 101011
+          "total": 102202
         },
         "inperson": {
           "total": 0
@@ -3202,24 +3176,24 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 457083
+          "total": 457020
         },
         "returned": {
-          "total": 263659
+          "total": 264556
         },
         "inperson": {
-          "total": 810494
+          "total": 844239
         }
       },
       "counties": {
         "Accomack": {
-          "returned_total": 799
+          "returned_total": 802
         },
         "Albemarle": {
           "returned_total": 4778
         },
         "Alexandria City": {
-          "returned_total": 6311
+          "returned_total": 6743
         },
         "Alleghany": {
           "returned_total": 227
@@ -3249,19 +3223,19 @@
           "returned_total": 71
         },
         "Botetourt": {
-          "returned_total": 788
+          "returned_total": 790
         },
         "Bristol City": {
-          "returned_total": 340
+          "returned_total": 341
         },
         "Brunswick": {
-          "returned_total": 362
+          "returned_total": 363
         },
         "Buchanan": {
           "returned_total": 210
         },
         "Buckingham": {
-          "returned_total": 281
+          "returned_total": 283
         },
         "Buena Vista City": {
           "returned_total": 106
@@ -3288,13 +3262,13 @@
           "returned_total": 7045
         },
         "Chesterfield": {
-          "returned_total": 13598
+          "returned_total": 13668
         },
         "Clarke": {
           "returned_total": 390
         },
         "Colonial Heights City": {
-          "returned_total": 359
+          "returned_total": 361
         },
         "Covington City": {
           "returned_total": 60
@@ -3303,7 +3277,7 @@
           "returned_total": 80
         },
         "Culpeper": {
-          "returned_total": 1482
+          "returned_total": 1483
         },
         "Cumberland": {
           "returned_total": 183
@@ -3324,7 +3298,7 @@
           "returned_total": 222
         },
         "Fairfax": {
-          "returned_total": 43518
+          "returned_total": 43522
         },
         "Fairfax City": {
           "returned_total": 872
@@ -3339,7 +3313,7 @@
           "returned_total": 370
         },
         "Fluvanna": {
-          "returned_total": 1084
+          "returned_total": 1086
         },
         "Franklin": {
           "returned_total": 1313
@@ -3357,7 +3331,7 @@
           "returned_total": 110
         },
         "Giles": {
-          "returned_total": 227
+          "returned_total": 228
         },
         "Gloucester": {
           "returned_total": 808
@@ -3375,22 +3349,22 @@
           "returned_total": 243
         },
         "Halifax": {
-          "returned_total": 631
+          "returned_total": 643
         },
         "Hampton City": {
-          "returned_total": 3523
+          "returned_total": 3540
         },
         "Hanover": {
           "returned_total": 2958
         },
         "Harrisonburg City": {
-          "returned_total": 572
+          "returned_total": 573
         },
         "Henrico": {
-          "returned_total": 12809
+          "returned_total": 12821
         },
         "Henry": {
-          "returned_total": 893
+          "returned_total": 894
         },
         "Highland": {
           "returned_total": 36
@@ -3399,7 +3373,7 @@
           "returned_total": 422
         },
         "Isle of Wight": {
-          "returned_total": 1238
+          "returned_total": 1280
         },
         "James City": {
           "returned_total": 3623
@@ -3408,7 +3382,7 @@
           "returned_total": 161
         },
         "King George": {
-          "returned_total": 630
+          "returned_total": 632
         },
         "King William": {
           "returned_total": 360
@@ -3420,7 +3394,7 @@
           "returned_total": 234
         },
         "Lexington City": {
-          "returned_total": 148
+          "returned_total": 149
         },
         "Loudoun": {
           "returned_total": 16928
@@ -3432,16 +3406,16 @@
           "returned_total": 244
         },
         "Lynchburg City": {
-          "returned_total": 2211
+          "returned_total": 2227
         },
         "Madison": {
-          "returned_total": 246
+          "returned_total": 248
         },
         "Manassas City": {
-          "returned_total": 1010
+          "returned_total": 1012
         },
         "Manassas Park City": {
-          "returned_total": 369
+          "returned_total": 370
         },
         "Martinsville City": {
           "returned_total": 332
@@ -3456,19 +3430,19 @@
           "returned_total": 254
         },
         "Montgomery": {
-          "returned_total": 2226
+          "returned_total": 2232
         },
         "Nelson": {
           "returned_total": 424
         },
         "New Kent": {
-          "returned_total": 771
+          "returned_total": 772
         },
         "Newport News City": {
-          "returned_total": 4150
+          "returned_total": 4151
         },
         "Norfolk City": {
-          "returned_total": 6225
+          "returned_total": 6254
         },
         "Northampton": {
           "returned_total": 500
@@ -3480,19 +3454,19 @@
           "returned_total": 54
         },
         "Nottoway": {
-          "returned_total": 247
+          "returned_total": 253
         },
         "Orange": {
           "returned_total": 1167
         },
         "Page": {
-          "returned_total": 434
+          "returned_total": 437
         },
         "Patrick": {
           "returned_total": 322
         },
         "Petersburg City": {
-          "returned_total": 1161
+          "returned_total": 1162
         },
         "Pittsylvania": {
           "returned_total": 1195
@@ -3501,25 +3475,25 @@
           "returned_total": 250
         },
         "Portsmouth City": {
-          "returned_total": 2753
+          "returned_total": 2771
         },
         "Powhatan": {
-          "returned_total": 747
+          "returned_total": 748
         },
         "Prince Edward": {
-          "returned_total": 489
+          "returned_total": 512
         },
         "Prince George": {
-          "returned_total": 730
+          "returned_total": 733
         },
         "Prince William": {
           "returned_total": 16760
         },
         "Pulaski": {
-          "returned_total": 827
+          "returned_total": 828
         },
         "Radford City": {
-          "returned_total": 219
+          "returned_total": 220
         },
         "Rappahannock": {
           "returned_total": 283
@@ -3528,7 +3502,7 @@
           "returned_total": 54
         },
         "Richmond City": {
-          "returned_total": 5162
+          "returned_total": 5178
         },
         "Roanoke": {
           "returned_total": 2976
@@ -3552,7 +3526,7 @@
           "returned_total": 244
         },
         "Shenandoah": {
-          "returned_total": 755
+          "returned_total": 757
         },
         "Smyth": {
           "returned_total": 464
@@ -3564,7 +3538,7 @@
           "returned_total": 4615
         },
         "Stafford": {
-          "returned_total": 4708
+          "returned_total": 4711
         },
         "Staunton City": {
           "returned_total": 798
@@ -3573,43 +3547,43 @@
           "returned_total": 3340
         },
         "Surry": {
-          "returned_total": 265
+          "returned_total": 271
         },
         "Sussex": {
           "returned_total": 157
         },
         "Tazewell": {
-          "returned_total": 582
+          "returned_total": 583
         },
         "Virginia Beach City": {
-          "returned_total": 18016
+          "returned_total": 18138
         },
         "Warren": {
-          "returned_total": 907
+          "returned_total": 912
         },
         "Washington": {
-          "returned_total": 1046
+          "returned_total": 1049
         },
         "Waynesboro City": {
-          "returned_total": 653
+          "returned_total": 657
         },
         "Westmoreland": {
-          "returned_total": 467
+          "returned_total": 472
         },
         "Williamsburg City": {
-          "returned_total": 500
+          "returned_total": 503
         },
         "Winchester City": {
           "returned_total": 471
         },
         "Wise": {
-          "returned_total": 516
+          "returned_total": 517
         },
         "Wythe": {
           "returned_total": 430
         },
         "York": {
-          "returned_total": 2095
+          "returned_total": 2097
         }
       }
     },
@@ -3639,231 +3613,231 @@
       "has_party_registration": false,
       "statewide": {
         "requested": {
-          "total": 533560
+          "total": 588504
         },
         "returned": {
-          "total": 377058
+          "total": 441141
         },
         "inperson": {
-          "total": 148896
+          "total": 200338
         }
       },
       "counties": {
         "Adams": {
-          "returned_total": 1027
+          "returned_total": 1156
         },
         "Ashland": {
-          "returned_total": 701
+          "returned_total": 808
         },
         "Barron": {
-          "returned_total": 1882
+          "returned_total": 2154
         },
         "Bayfield": {
-          "returned_total": 1092
+          "returned_total": 1163
         },
         "Brown": {
-          "returned_total": 18590
+          "returned_total": 21132
         },
         "Buffalo": {
-          "returned_total": 331
+          "returned_total": 345
         },
         "Burnett": {
-          "returned_total": 697
+          "returned_total": 796
         },
         "Calumet": {
-          "returned_total": 3284
+          "returned_total": 3793
         },
         "Chippewa": {
-          "returned_total": 3256
+          "returned_total": 3510
         },
         "Clark": {
-          "returned_total": 521
+          "returned_total": 578
         },
         "Columbia": {
-          "returned_total": 3200
+          "returned_total": 3563
         },
         "Crawford": {
-          "returned_total": 621
+          "returned_total": 668
         },
         "Dane": {
-          "returned_total": 50974
+          "returned_total": 61958
         },
         "Dodge": {
-          "returned_total": 3684
+          "returned_total": 4254
         },
         "Door": {
-          "returned_total": 1961
+          "returned_total": 2250
         },
         "Douglas": {
-          "returned_total": 2433
+          "returned_total": 2723
         },
         "Dunn": {
-          "returned_total": 1745
+          "returned_total": 1952
         },
         "Eau Claire": {
-          "returned_total": 6584
+          "returned_total": 7485
         },
         "Florence": {
-          "returned_total": 239
+          "returned_total": 289
         },
         "Fond Du Lac": {
-          "returned_total": 4371
+          "returned_total": 5113
         },
         "Forest": {
-          "returned_total": 327
+          "returned_total": 346
         },
         "Grant": {
-          "returned_total": 1754
+          "returned_total": 1995
         },
         "Green": {
-          "returned_total": 1798
+          "returned_total": 1970
         },
         "Green Lake": {
-          "returned_total": 692
+          "returned_total": 790
         },
         "Iowa": {
-          "returned_total": 1386
+          "returned_total": 1509
         },
         "Iron": {
-          "returned_total": 337
+          "returned_total": 370
         },
         "Jackson": {
-          "returned_total": 488
+          "returned_total": 554
         },
         "Jefferson": {
-          "returned_total": 4342
+          "returned_total": 4960
         },
         "Juneau": {
-          "returned_total": 737
+          "returned_total": 833
         },
         "Kenosha": {
-          "returned_total": 11364
+          "returned_total": 13187
         },
         "Kewaunee": {
-          "returned_total": 759
+          "returned_total": 772
         },
         "La Crosse": {
-          "returned_total": 9182
+          "returned_total": 10961
         },
         "Lafayette": {
-          "returned_total": 390
+          "returned_total": 414
         },
         "Langlade": {
-          "returned_total": 716
+          "returned_total": 745
         },
         "Lincoln": {
-          "returned_total": 1334
+          "returned_total": 1460
         },
         "Manitowoc": {
-          "returned_total": 4058
+          "returned_total": 4422
         },
         "Marathon": {
-          "returned_total": 7948
+          "returned_total": 9205
         },
         "Marinette": {
-          "returned_total": 1980
+          "returned_total": 2215
         },
         "Marquette": {
-          "returned_total": 515
+          "returned_total": 528
         },
         "Menominee": {
-          "returned_total": 104
+          "returned_total": 122
         },
         "Milwaukee": {
-          "returned_total": 57293
+          "returned_total": 70033
         },
         "Monroe": {
-          "returned_total": 1494
+          "returned_total": 1692
         },
         "Oconto": {
-          "returned_total": 1677
+          "returned_total": 1828
         },
         "Oneida": {
-          "returned_total": 2512
+          "returned_total": 2808
         },
         "Outagamie": {
-          "returned_total": 12730
+          "returned_total": 14369
         },
         "Ozaukee": {
-          "returned_total": 9430
+          "returned_total": 11262
         },
         "Pepin": {
-          "returned_total": 203
+          "returned_total": 208
         },
         "Pierce": {
-          "returned_total": 1971
+          "returned_total": 2345
         },
         "Polk": {
-          "returned_total": 1727
+          "returned_total": 1949
         },
         "Portage": {
-          "returned_total": 5137
+          "returned_total": 5848
         },
         "Price": {
-          "returned_total": 498
+          "returned_total": 514
         },
         "Racine": {
-          "returned_total": 13138
+          "returned_total": 15486
         },
         "Richland": {
-          "returned_total": 499
+          "returned_total": 545
         },
         "Rock": {
-          "returned_total": 9840
+          "returned_total": 10970
         },
         "Rusk": {
-          "returned_total": 388
+          "returned_total": 427
         },
         "Sauk": {
-          "returned_total": 3442
+          "returned_total": 3877
         },
         "Sawyer": {
-          "returned_total": 1158
+          "returned_total": 1266
         },
         "Shawano": {
-          "returned_total": 1510
+          "returned_total": 1614
         },
         "Sheboygan": {
-          "returned_total": 7024
+          "returned_total": 7538
         },
         "St. Croix": {
-          "returned_total": 6060
+          "returned_total": 6544
         },
         "Taylor": {
-          "returned_total": 468
+          "returned_total": 547
         },
         "Trempealeau": {
-          "returned_total": 757
+          "returned_total": 849
         },
         "Vernon": {
-          "returned_total": 924
+          "returned_total": 1021
         },
         "Vilas": {
-          "returned_total": 1847
-        },
-        "Walworth": {
-          "returned_total": 6791
-        },
-        "Washburn": {
-          "returned_total": 720
-        },
-        "Washington": {
-          "returned_total": 12489
-        },
-        "Waukesha": {
-          "returned_total": 39530
-        },
-        "Waupaca": {
           "returned_total": 2068
         },
+        "Walworth": {
+          "returned_total": 8029
+        },
+        "Washburn": {
+          "returned_total": 761
+        },
+        "Washington": {
+          "returned_total": 15004
+        },
+        "Waukesha": {
+          "returned_total": 47546
+        },
+        "Waupaca": {
+          "returned_total": 2315
+        },
         "Waushara": {
-          "returned_total": 644
+          "returned_total": 767
         },
         "Winnebago": {
-          "returned_total": 11365
+          "returned_total": 13339
         },
         "Wood": {
-          "returned_total": 4320
+          "returned_total": 4724
         }
       }
     },
@@ -3871,19 +3845,19 @@
       "has_party_registration": true,
       "statewide": {
         "requested": {
-          "total": 45053,
+          "total": 48413,
           "by_party": {
-            "Democratic": 7982,
-            "Republican": 33593,
-            "Other": 3478
+            "Democratic": 8512,
+            "Republican": 36161,
+            "Other": 3740
           }
         },
         "returned": {
-          "total": 32770,
+          "total": 36856,
           "by_party": {
-            "Democratic": 6054,
-            "Republican": 24324,
-            "Other": 2392
+            "Democratic": 6693,
+            "Republican": 27475,
+            "Other": 2688
           }
         },
         "inperson": {
